@@ -1,4 +1,4 @@
 # ZooBauruApp
 
-* ```git clone linkDoRepositorio 
-```npm instal ```
+* ```git clone linkDoRepositorio ```
+* ```npm instal ```
