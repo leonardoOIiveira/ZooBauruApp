@@ -1,11 +1,130 @@
-<ion-content>
+<ion-content >
   <div class="topoPage"></div>
  
   <div class="segment">
-    <ion-button activate> Animais </ion-button>
+    <ion-segment  >
+            <ion-segment-button value="Animais">
+              Animais
+            </ion-segment-button>
+            <ion-segment-button value="Seções">
+              Seções
+            </ion-segment-button>
+            <ion-segment-button  value="Taxons">
+              Taxons
+            </ion-segment-button>
+    </ion-segment>
+    <!--<ion-button activate> Animais </ion-button>
     <ion-button> Seções </ion-button>
-    <ion-button> Taxons </ion-button>
+    <ion-button> Taxons </ion-button>-->
   </div>
+
+  <div style="text-align: center">
+    <ion-label position="fixed" center >Ordem alfabetica:</ion-label>
+  </div>
+      
+  <div class="lista">
+    <ion-list>          
+      <ion-grid style="height: 100%; display: flex; flex-flow: column;">
+        <ion-row>
+          <ion-col>
+                <ion-item slots="start" lines="none" (click)="msg()">
+                  <div>
+                    <ion-avatar>
+                      <img src="https://eclone.com.br/wp-content/uploads/2017/09/animais_selvagem_le%C3%A3o_rosto-1.jpg">
+                    </ion-avatar> 
+                    <ion-label text-center>Leão </ion-label><!-- da pra mudar o tamanho da letra-->
+                  </div>
+                </ion-item>
+          </ion-col>
+          <ion-col>
+              <ion-item slots="start" lines="none" (click)="msg()">
+                  <div>
+                    <ion-avatar >
+                      <img src="http://animais.culturamix.com/blog/wp-content/gallery/lemure-2/L%C3%AAmure-8.jpg">
+                    </ion-avatar> 
+                    <ion-label text-center>Lêmure</ion-label>
+                  </div>
+                </ion-item>
+          </ion-col>
+          <ion-col>
+              <ion-item slots="start" lines="none" (click)="msg()">
+                  <div>
+                    <ion-avatar >
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Golden_lion_tamarin_forage.jpg/640px-Golden_lion_tamarin_forage.jpg">
+                    </ion-avatar> 
+                    <ion-label text-center>Mico-Leão</ion-label>
+                  </div>
+                </ion-item>
+          </ion-col>              
+        </ion-row>
+        <ion-row style="flex-grow: 1;">
+            <ion-col>
+                  <ion-item slots="start" lines="none" (click)="msg()">
+                    <div>
+                      <ion-avatar>
+                        <img src="https://www.mundoecologia.com.br/wp-content/gallery/cobra-naja-indiana/Cobra-Naja-Indiana-5.jpg">
+                      </ion-avatar> 
+                      <ion-label text-center>Naja </ion-label>
+                    </div>
+                  </ion-item>
+            </ion-col>
+            <ion-col>
+                <ion-item slots="start" lines="none" (click)="msg()">
+                    <div>
+                      <ion-avatar >
+                        <img src="https://escolakids.uol.com.br/upload/conteudo_legenda/0384f1f47699cf19534388ebb7a6adfb.jpg">
+                      </ion-avatar> 
+                      <ion-label text-center>Onça</ion-label>
+                    </div>
+                  </ion-item>
+            </ion-col>
+            <ion-col>
+                <ion-item slots="start" lines="none" (click)="msg()">
+                    <div>
+                      <ion-avatar >
+                        <img src="https://http2.mlstatic.com/curso-online-aprenda-a-criar-pato-manual-criaco-de-pato-D_NQ_NP_784464-MLB26239323774_102017-F.jpg">
+                      </ion-avatar> 
+                      <ion-label text-center>Pato</ion-label>
+                    </div>
+                  </ion-item>
+            </ion-col>              
+          </ion-row>
+          <ion-row justify-content: space-around >
+            <ion-col>
+              <ion-item slots="start" lines="none" (click)="msg()">
+                <div>
+                  <ion-avatar>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Suricata_suricatta18082009b.jpg">
+                  </ion-avatar> 
+                  <ion-label text-center>Suricata </ion-label>
+                </div>
+              </ion-item>
+            </ion-col>
+            <ion-col>
+              <ion-item slots="start" lines="none" (click)="msg()">
+                <div>
+                  <ion-avatar>
+                    <img src="https://img.elo7.com.br/product/zoom/1C33B7C/quadro-tela-animais-tigre-decoracao-telas-animal-0001-quadro-tigre.jpg">
+                  </ion-avatar> 
+                  <ion-label text-center>Tigre</ion-label>
+                </div>
+              </ion-item>
+            </ion-col>
+            <ion-col>
+              <ion-item slots="start" lines="none" (click)="msg()">
+                <div>
+                  <ion-avatar border-radius="100%">
+                    <img src="https://img.estadao.com.br/thumbs/640/resources/jpg/4/4/1511556390844.jpg">
+                  </ion-avatar> 
+                  <ion-label text-center>Veado</ion-label>
+                </div>
+              </ion-item>
+            </ion-col>              
+          </ion-row>
+      </ion-grid>              
+    </ion-list>
+    </div>
+  
   
 
 </ion-content>

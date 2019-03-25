@@ -11,5 +11,7 @@ export class ListPage implements OnInit {
 
   ngOnInit() {
   }
-
+  msg(){
+    console.log("deu certo");
+  }
 }
