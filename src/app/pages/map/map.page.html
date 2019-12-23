@@ -4,6 +4,28 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content padding>
-
+<ion-content [scrollEvents]="true"
+(ionScrollStart)="logScrollStart()"
+(ionScroll)="logScrolling($event)"
+(ionScrollEnd)="logScrollEnd()"
+[scrollX]="true"
+[scrollY]="true"
+[fullscreen]="true" >
+  <ion-slides [options]="sliderOpts" #slider>
+    <ion-slide>
+      <div class="swiper-zoom-container">
+        <img src="assets/imgs/mapa.jpg"> 
+      </div>      
+    </ion-slide>
+  </ion-slides>
+  <ion-fab id="teste_div">
+    <ion-icon name="settings" (click)="Card(true)">Animal</ion-icon>
+    <ion-fab list side="right">
+      <ion-card *ngIf="card">
+        <ion-card-content>
+          Informaçoes dos animais
+        </ion-card-content>
+      </ion-card>
+    </ion-fab>
+  </ion-fab>
 </ion-content>
