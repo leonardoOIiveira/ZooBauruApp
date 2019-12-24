@@ -15,7 +15,7 @@ export class DatabaseService {
       item.url_foto = item.url_foto == undefined ? '' : item.url_foto;
       return item.nome_popular != '';
     });
-    this.filteredAnimalList = this.filteredAnimalList.sort((a, b) => (a.nome_popular < b.nome_popular ? -1 : 1));
+    this.filteredAnimalList.sort((a, b) => (a > b ? -1 : 1));
   }
 
   getAnimals() {
