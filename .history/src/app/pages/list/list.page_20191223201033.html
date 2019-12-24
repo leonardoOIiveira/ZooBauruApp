@@ -1,0 +1,18 @@
+<ion-content>
+  <div class="topoPage"></div>
+ 
+  <div class="segment">
+    <ion-button activate> Animais </ion-button>
+    <ion-button> Seções </ion-button>
+    <ion-button> Taxons </ion-button>
+  </div>
+
+  <app-animal-item
+    [id]="'1'"
+    [nomeAnimal]="'Leão'"
+    [urlFoto]="none"
+    (onclick)="AnimalClicado($event)"
+  ></app-animal-item>
+  
+
+</ion-content>

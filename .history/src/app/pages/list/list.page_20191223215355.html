@@ -1,0 +1,26 @@
+<ion-content>
+  <div class="topoPage"></div>
+ 
+  <div class="segment">
+    <ion-button activate> Animais </ion-button>
+    <ion-button> Seções </ion-button>
+    <ion-button> Taxons </ion-button>
+  </div>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col *ngFor="let animal of AnimalList" size="4" >
+        <app-animal-item
+          [id]="animal.id"
+          [nomeAnimal]="animal.nome_popular"
+          [urlFoto]="'https://gravatar.com/avatar/dba6bae8c566f9d4041fb9cd9ada7741?d=identicon&f=y'"
+          (onclick)="AnimalClicado($event)"
+        ></app-animal-item>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+  
+  
+
+</ion-content>
