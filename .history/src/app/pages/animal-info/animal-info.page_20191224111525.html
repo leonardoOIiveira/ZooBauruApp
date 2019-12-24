@@ -1,0 +1,71 @@
+<ion-content>
+  <div class="custom-header">
+      <ion-icon name="arrow-round-back" (click)="Voltar()"></ion-icon>
+      <div class="avatar">
+          <ion-avatar>
+            <img [src]="animal?.url_foto">
+          </ion-avatar>
+      </div>
+  </div>
+  <div class="info">
+    <ion-card class="card-info">
+      <ion-card-content>
+          <ion-grid>
+            <ion-row>
+              <ion-col>
+                <p class="nomePopular" >{{animal?.nome_popular}}</p>
+                <p class="nomeCientifico"> {{animal?.nome_cientifico}} </p>
+              </ion-col>
+              <ion-col>
+                <p class="secao"> {{animal.secao_zoo}} | {{ animal.habito_alimentar}} </p>
+              </ion-col>
+            </ion-row>
+            <ion-row>
+                <ion-col></ion-col>
+                <ion-col>
+                  <p class="bagde-info"> <span class="text-badge" >{{ animal.incubacao.gestacao }}</span>  </p>
+                  <p class="badge-indicator"> Gestação </p>
+                </ion-col>
+                <ion-col>
+                  <p class="bagde-info"> <span class="text-badge" >{{ animal.longevidade }}</span>  </p>
+                  <p class="badge-indicator"> Longevidade </p>
+                </ion-col>
+                <ion-col></ion-col>
+              </ion-row>
+            <ion-row>
+              <ion-col>
+                <p class="atributo"><strong> Habitat </strong></p>
+                <p> {{ animal.dist_geografica }} </p>
+              </ion-col>
+            </ion-row>
+            <ion-row>
+                <ion-col>
+                  <p class="atributo" ><strong> Curiosidade </strong></p>
+                  <p> {{ animal.curiosidade }} </p>
+                </ion-col>
+              </ion-row>
+              <ion-row>
+                <ion-col>
+                  <p class="atributo"> Risco de extinsão </p>
+                  <img [src]="risco_extincao.src" [alt]="risco_extincao.alt">
+                </ion-col>
+              </ion-row>
+              <ion-row>
+                <ion-col text-center>
+                  <div class="galeria-button" >  Galeria </div> 
+                      <ion-grid>
+                        <ion-row>
+                          <ion-col>
+                            <app-animal-galeria
+                              [fotos]="animal.galeria"
+                            ></app-animal-galeria>
+                          </ion-col>
+                        </ion-row>
+                      </ion-grid>
+                </ion-col>
+              </ion-row>
+          </ion-grid>
+      </ion-card-content>
+    </ion-card>
+  </div>
+</ion-content>

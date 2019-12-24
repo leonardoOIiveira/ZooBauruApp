@@ -1,0 +1,47 @@
+.custom-header {
+    background-color: #90fbaa;
+    padding: 20px !important;
+}
+
+ion-card{
+    margin-top: -20px;
+    --background: white !important;
+}
+
+ion-card-content {
+    padding: 0;
+}
+
+ion-avatar {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+
+/** Estilos do card de infomrações */
+.nomePopular{
+    font-weight: bolder;
+}
+
+.bagde-info{
+    height: 80px;
+    width: 80px;
+    background: linear-gradient(197deg, rgba(100,100,100,1) 0%, rgba(63,63,63,1) 13.5%, rgba(29,29,29,1) 33.33%, rgba(0,0,0,1) 100%) !important;
+    border-radius: 50%;
+    margin: auto;
+    display: flex!important;
+    align-content: center!important;
+    align-items: center!important;
+
+    .text-badge{
+        height: 60px;
+        width: 60px;
+        margin: auto;
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+        display: flex!important;
+        align-content: center!important;
+        align-items: center!important;
+    }
+}

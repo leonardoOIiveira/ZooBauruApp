@@ -1,0 +1,27 @@
+<ion-content>
+  <div class="custom-header">
+      <ion-icon name="arrow-round-back" (click)="Voltar()"></ion-icon>
+      <div class="avatar">
+          <ion-avatar>
+            <img [src]="animal?.url_foto">
+          </ion-avatar>
+      </div>
+  </div>
+  <div class="info">
+    <ion-card>
+      <ion-card-content>
+          <ion-grid>
+            <ion-row>
+              <ion-col>
+                <p class="nomePopular" >{{animal?.nome_popular}}</p>
+                <p class="nomeCientifico"> {{animal?.nome_cientifico}} </p>
+              </ion-col>
+              <ion-col>
+
+              </ion-col>
+            </ion-row>
+          </ion-grid>
+      </ion-card-content>
+    </ion-card>
+  </div>
+</ion-content>

@@ -1,0 +1,2282 @@
+[
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Anacã",
+   "nome_cientifico": "Deroptyus accipitrinus",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Brasil (amazônia), colômbia, equador,Guianas e venezuela",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "É conhecido pelos moradores da mata como meteorogista, quando começa a vocalizar (emitir sons) seria sinal de que o tempo irá virar",
+   "risco_extincao": "LC", 
+   "url_foto": "http://portalmelhoresamigos.com.br/wp-content/uploads/2016/11/anaca.png"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Ararajuba",
+   "nome_cientifico": "Guaruba guarouba",
+   "incubacao": {
+      "gestacao": "30 dias"
+   },
+   "longevidade": "30-40 anos",
+   "dist_geografica": "Brasil (maranhão e amazononas)",
+   "habito_alimentar": "Frutas, sementes e flores",
+   "curiosidade": "É uma ave basante comum de se encontrar em suas áreas de ocorrencia, apesar disso suas populações sofrem muito com desmatamento e comércio ilegal de animais,faça sua parte não capture ou compre animais selvagens!",
+   "risco_extincao": "VU", 
+   "url_foto": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Guaruba_guarouba_-Gramado_Zoo%2C_Brazil-8a.jpg"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Ararinha",
+   "nome_cientifico": "Diopsittaca nobilis",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "15-20 anos",
+   "dist_geografica": "Brasil, venezuela e suriname",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Consome alguns suplementos mineraiso em barreiros ou barrancos que,entre outras funções, atua como neutralizador de toxinas vegetais presentes em sua dieta",
+   "risco_extincao": "LC", 
+   "url_foto": "https://s2.glbimg.com/FR6jrT4gKQuTXit78yN94mCkhes=/0x0:1900x1461/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/1/g/BjKNYuSBeVn9zupTRamA/araraazul.jpg"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Ararinha de testa vermelha",
+   "nome_cientifico": "Ara rubrogenys",
+   "incubacao": {
+      "gestacao": "21 dias"
+   },
+   "longevidade": "60 anos",
+   "dist_geografica": "Bolivia",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "São endemicas da Bolivia (não ocorrendo naturalmente em nenhum outro lugar do mundo), são animais domesticaveis e correm risco_extincao",
+   "risco_extincao": "CR", 
+   "url_foto": "https://static.wixstatic.com/media/b8037b_132446b70a845bb28e4843bf9b12e611.jpg/v1/fill/w_640,h_457,al_c,q_85,usm_0.66_1.00_0.01/b8037b_132446b70a845bb28e4843bf9b12e611.webp"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Curica-de-cabeça-azul",
+   "nome_cientifico": "Pionus menstruus",
+   "incubacao": {
+      "gestacao": "26 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Brasil, bolivia e equador",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Costuma botar de 3 a 4 ovos em cavidades de árvores, apesar de não estarem ameaçadas de extinção a destruição de seu habitat natural causa grandes problemas as populações de curica-de-cabeça-azul",
+   "risco_extincao": "LC", 
+   "url_foto": "https://live.staticflickr.com/3091/2897868025_cbf07e5ed3_b.jpg"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Curica-roxa",
+   "nome_cientifico": "Amazona brasiliensis",
+   "incubacao": {
+      "gestacao": "26 dias"
+   },
+   "longevidade": "40 anos",
+   "dist_geografica": "Brasil, colômbia e venezuela",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Seu ninho é feito no oco de árvores, onde geralmente voltam para a mesma árvore em épocas reprodutivas, o que agrava o seu risco_extincao devido ao desmatamento.",
+   "risco_extincao": "NT", 
+   "url_foto": "https://www.passaro.org/wp-content/uploads/2018/11/curica-roxa.jpg"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Jandaia-coquinho",
+   "nome_cientifico": "Eupsittula aurea",
+   "incubacao": {
+      "gestacao": "26 dias"
+   },
+   "longevidade": "27 anos",
+   "dist_geografica": "Brasil, argentina, boliva e paraguai",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Utilizar o bico como apoio, algo como um terceiro pé. Faz seu ninho geralmente em ocos de árvores, mas já foi registrado ninhos em rochas erodidas, barrancos e cupinzeiros",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Jandaia-sol",
+   "nome_cientifico": "Aratinga solstitialis",
+   "incubacao": {
+      "gestacao": "25-26 dias"
+   },
+   "longevidade": "25 anos",
+   "dist_geografica": "Brasil (norte e nordeste)",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Quintais com jardins e árvores frutíferas atraem diversas aves, em especial Jandaia-sol.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Maracanã guaçu",
+   "nome_cientifico": "Ara severa",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "30-40 anos",
+   "dist_geografica": "Brasil (nordeste), america central e bolivia",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Estas aves são popularmente conhecidas como maracanã-guaçu, nome de origem tupi que pode significar “grande e semelhante a um chocalho” devido a sua vocalização.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Marianinha-de-cabeça-amarela",
+   "nome_cientifico": "Pionites leucogaster",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "brasil, coloômbria e venezuela",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "O nome_cientifico da Marianinha-de-cabeça-amarela é “Pionites leucogaster” que possui raiz grega significando “papagaio gordo com bariga branca”",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Marianinha-de-cabeça-preta",
+   "nome_cientifico": "Pionites melanocephala",
+   "incubacao": {
+      "gestacao": "22-23 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "brasil(norte), guianas, venezuela, colômbia e peru",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "É principalmente encontrado em florestas próximas a amazônia, sendo sua aparição comum em áreas de preservação ambiental, costumam ser encontrados em pares ou pequenos bandos de até 10 indivíduos",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Pagaio-papa-cacau",
+   "nome_cientifico": "Amazona festiva",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "brasil, colômbia, peru e venezuela",
+   "habito_alimentar": "Frutas e sementes, ocasionalmente ovos e insetos",
+   "curiosidade": "São aves que apreciam muito o cacau (o que da origem ao nome_popular “papa-cacau”). Vivem em casais ou em bandos.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Papagaio de cara roxa",
+   "nome_cientifico": "Amazona brasiliensis",
+   "incubacao": {
+      "gestacao": "26 dias"
+   },
+   "longevidade": "40 anos",
+   "dist_geografica": "brasil (litoral de são paulo e paraná)",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Geralmente bebem água acumulada em bromélias",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Papagaio-de-peito-roxo",
+   "nome_cientifico": "Amazona vinacea",
+   "incubacao": {
+      "gestacao": "26 dias"
+   },
+   "longevidade": "40 anos",
+   "dist_geografica": "brasil, paraguai e argentina",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Este papagaio foi domesticado pelos índios, suas penas são usadas para confecção de adornos, atualmente estas aves estão em perigo de extinção devido a caça predatória, tráfico ilegal e destruição de seus habitats.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Papagaio-galego",
+   "nome_cientifico": "Alipiopsitta xanthops",
+   "incubacao": {
+      "gestacao": "23 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Brasil (do norte ao sudeste)",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Durante o período reprodutivo, o casal se afasta do bando para fazer um ninho em ocos de árvores, os filhotes nascem cegos e nus, dependendo de cuidado parental para chegarem a fase juvenil.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Papagaio-verdadeiro",
+   "nome_cientifico": "Amazona aestiva",
+   "incubacao": {
+      "gestacao": "26-28 dias"
+   },
+   "longevidade": "50 anos",
+   "dist_geografica": "Brasil, argentina, paraguai e bolivia",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Pode utilizar as patas, geralmente a esqueda, para levar a comida a sua boca. Geralmente botam 4 ovos por estação em troncos ocos ou curacos de barrancos.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Tiriba de barriga vermelha",
+   "nome_cientifico": "Pyrrhura perlata",
+   "incubacao": {
+      "gestacao": "25-26 dias"
+   },
+   "longevidade": "25 anos",
+   "dist_geografica": "brasil (nordeste)",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Geralmente encontrados em flroestas úmidas, clareiras e florestas secundárias, vivendo em pequenos bandos",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Pequenos e Médios Psitacídeos",
+   "nome_popular": "Tuim",
+   "nome_cientifico": "Forpus xanthopterygius",
+   "incubacao": {
+      "gestacao": "17 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "brasil, colômbia, peru, paraguai e bolivia",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "É considerado o menor psitacídeo do Brasil, em geral não medindo mais que 12 centímetros",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Grandes Primatas Brasileiros",
+   "nome_popular": "Bugio-ruivo",
+   "nome_cientifico": "Alouatta fusca",
+   "incubacao": {
+      "gestacao": "100 dias"
+   },
+   "longevidade": "15-20 anos",
+   "dist_geografica": "Brasil (endemico) (Bahia, Minas Gerais, Espirito Santo)",
+   "habito_alimentar": "Folhas, frutos, flores",
+   "curiosidade": "É um dos maiores primatas neotropicais. Vivem em grupos de 3 a 12 indivíduos, de sexo e idades variadas, tendo um macho alfa.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Grandes Primatas Brasileiros",
+   "nome_popular": "Bugio",
+   "nome_cientifico": "Alouatta caraya",
+   "incubacao": {
+      "gestacao": "150-195 dias"
+   },
+   "longevidade": ">26 (anos em cativeiro)",
+   "dist_geografica": "Argentina, Paraguai, Bolívia, Uruguai e Brasil (Bahia, Distrito Federal, Goiás, Maranhão, Pará, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Piauí, Paraná, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo e Tocantins).",
+   "habito_alimentar": "Folhas, cascas, frutos, sementes, flores",
+   "curiosidade": "Os bugios, em geral, obtêm toda a água que precisam para sobreviver através de sua alimentação de folhas e frutos, porém em estações chuvosas onde folhas novas estão menos disponíveis, costumam beber água direto de ocos de árvores e bromélias.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Grandes Primatas Brasileiros",
+   "nome_popular": "Guariba",
+   "nome_cientifico": "Alouatta belzebul",
+   "incubacao": {
+      "gestacao": "184-194 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "Brasil (Nordeste)",
+   "habito_alimentar": "Folhas, flores, futos",
+   "curiosidade": "Vivem emgrupos sociais liderados por uma macho.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Grandes Primatas Brasileiros",
+   "nome_popular": "Macaco-barrigudo",
+   "nome_cientifico": "Lagothrix lagotricha",
+   "incubacao": {
+      "gestacao": "210-225 dias"
+   },
+   "longevidade": "25 anos em cativeiro",
+   "dist_geografica": "Colômbia, Equador, Peru e Venezuela, Brasil (Amazonas)",
+   "habito_alimentar": "Folhas, flores, futos",
+   "curiosidade": "Desloca-se com rapidez incrível e pode dar saltos espetaculares de uma árvore para outra, no chão adota a posição bípede com a cauda voltada para cima. Formam grandes grupos, variando de 12-70 indivíduos.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Grandes Primatas Brasileiros",
+   "nome_popular": "Macaco-aranha-da-testa-branca",
+   "nome_cientifico": "Ateles marginatus",
+   "incubacao": {
+      "gestacao": "230-225 dias"
+   },
+   "longevidade": "30 anos em cativeiro",
+   "dist_geografica": "Brasil (endemico) (Pará e Mato Grosso)",
+   "habito_alimentar": "Folhas, flores, futos",
+   "curiosidade": "O macaco-aranha-de-testa branca forma grandes grupos com mais de 30 indivíduos, utilizam de vocalizações para se comunicar em situações distintas como a da descoberta de alimentos, por exemplo.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Grandes Primatas Brasileiros",
+   "nome_popular": "Macaco-aranha-de-cara-vermelha",
+   "nome_cientifico": "Ateles paniscus",
+   "incubacao": {
+      "gestacao": "230-225 dias"
+   },
+   "longevidade": "Desconhecido",
+   "dist_geografica": "Guiana, Guiana Francesa e Suriname",
+   "habito_alimentar": "Folhas, flores, futos",
+   "curiosidade": "O macaco-aranha-de-cara-vermelha possui uma forte vocalização, podendo ser escutada a até meio quilômetro de distância. Apenas os machos vocalizam com a finalidade para marcar o território",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Pequenos Primatas Brasileiros",
+   "nome_popular": "Guigó",
+   "nome_cientifico": "Callicebus personatus",
+   "incubacao": {
+      "gestacao": "155 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "Brasil (MG, RJ, ES)",
+   "habito_alimentar": "Frutas, folhas e flores",
+   "curiosidade": "O guigó forma pequenos grupos, com dois a seis indivíduos que geralmente eles são casais monogâmicos, usam de uma potente vocalização para marcar território.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Pequenos Primatas Brasileiros",
+   "nome_popular": "Mico-leão-de-cara-dourada",
+   "nome_cientifico": "Leontopithecus chrysomelas",
+   "incubacao": {
+      "gestacao": "125-132 dias"
+   },
+   "longevidade": "18 anos",
+   "dist_geografica": "Brasil (mata atlântica, Bahia)",
+   "habito_alimentar": "Frutas, folhas e invertebrados",
+   "curiosidade": "Atualmente o micro-leão-de-cara-dourada esta na lista dos animais em perigo de estinção da IUCN, entre as principais ameaças a esta especie esta a perda de habitat por assentamentos rurais, agricultura, pecuária, expansão urbana, desmatamento, aumento da matriz rodoviária, entre outros, estudos indicam que o tamanho reduzido de sua população poderá acarretar em sua extinção.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Pequenos Primatas Brasileiros",
+   "nome_popular": "Mico-leão-dourado",
+   "nome_cientifico": "Leontopithecus rosalia",
+   "incubacao": {
+      "gestacao": "125-132 dias"
+   },
+   "longevidade": "18 anos",
+   "dist_geografica": "Brasil (endemico, mata atlântica, RJ, ES)",
+   "habito_alimentar": "Frutas, folhas e invertebrados",
+   "curiosidade": "O mico-leão-dourado são os maiores, em tamanho, de seu gênero, são importantes para a manutenção da vida na floresta por atuarem como dispersores de sementes ao se alimentarem de frutas e dispensar as sementes intactas nas fezes.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Pequenos Primatas Brasileiros",
+   "nome_popular": "Sauá",
+   "nome_cientifico": "Callicebus nigrifrons",
+   "incubacao": {
+      "gestacao": "150-180 dias"
+   },
+   "longevidade": "25 anos",
+   "dist_geografica": "Brasil ( Minas Gerais, Rio de Janeiro e São Paulo)",
+   "habito_alimentar": "Frutas, folhas e flores",
+   "curiosidade": "Habitam áreas conservadas e florestas com distúrbios antropogênicos e em regeneração, passa quase metade do seu tempo em atividades em forrageiro (procurando comida), devido à perda e fragmentação de seus habitats naturais sua população está em declínio.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Pequenos Primatas Brasileiros",
+   "nome_popular": "Sauim de coleira",
+   "nome_cientifico": "Saguinus bicolor",
+   "incubacao": {
+      "gestacao": "145-152 dias"
+   },
+   "longevidade": "10-15 anos",
+   "dist_geografica": "Brasil (amazonas)",
+   "habito_alimentar": "Frutas, folhas e insetos",
+   "curiosidade": "Encontra-se criticamente em perigo de extinção devido a perda e fragmentação do seu habitat natural devido a expansão desordenada da região metropolitana de Manaus, sofrem também com atropelamentos e eletrocussão",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Pequenos Primatas Brasileiros",
+   "nome_popular": "Sagui de bigode",
+   "nome_cientifico": "saguinus labiatus",
+   "incubacao": {
+      "gestacao": "145-152 dias"
+   },
+   "longevidade": "10-15 anos",
+   "dist_geografica": "Norte do Brasil",
+   "habito_alimentar": "invertebrados, pequenos vertebrados, frutas, folhas e insetos",
+   "curiosidade": "",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Pavões",
+   "nome_popular": "Pavão-azul",
+   "nome_cientifico": "Pavo cristatus",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "India",
+   "habito_alimentar": "Sementes, folhas e pequenos invertebrados",
+   "curiosidade": "Apenas o macho do pavão-azul irá possuir alonga e colorida cauda, ele usa para chamar a atenção da femea durante a estação reprodutiva.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pavões",
+   "nome_popular": "Pavão-ombros-negros",
+   "nome_cientifico": "Pavo cristatus",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "Melhoramento genetico do azul",
+   "habito_alimentar": "Sementes, folhas e pequenos invertebrados",
+   "curiosidade": "O pavão-de-ombros-negros é resultante do cruzamento do pavão-branco com o pavão-azul",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pavões",
+   "nome_popular": "Pavão-branco",
+   "nome_cientifico": "Pavo cristatus",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "Azul albino",
+   "habito_alimentar": "Sementes, folhas e pequenos invertebrados",
+   "curiosidade": "O pavão branco é o pavão-azul incapaz de produzir penas coloridas, ou seja é um pavão albiono",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pavões",
+   "nome_popular": "Pavão-arlequim",
+   "nome_cientifico": "Pavo cristatus",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "Cruzamento de cativeiro (Azul x Branco)",
+   "habito_alimentar": "Sementes, folhas e pequenos invertebrados",
+   "curiosidade": "O pavão-arlqueim é orginario de uma mutação na coloração das penas do pavão-azul",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pavões",
+   "nome_popular": "Pavão-verde",
+   "nome_cientifico": "Pavo muticus",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "Indonésia",
+   "habito_alimentar": "Sementes, folhas e insetos",
+   "curiosidade": "O pavão-verde é a maior especie de pavão do mundo, os machos geralmente são bem maiores do que as femeas.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Tamanduá",
+   "nome_popular": "tamanduá bandeira",
+   "nome_cientifico": "Myrmecophaga tridactyla",
+   "incubacao": {
+      "gestacao": "184 dias"
+   },
+   "longevidade": "25 anos",
+   "dist_geografica": "Brasil, america do sul e central",
+   "habito_alimentar": "Formigas, cupins, larvas e besouros adultos",
+   "curiosidade": "O tamanduá bandeira consome cerca de 35 mil formigas por dia",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Tamanduá",
+   "nome_popular": "tamanduá mirim",
+   "nome_cientifico": "Tamandua tetradactyla",
+   "incubacao": {
+      "gestacao": "130-150 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "Brasil e america do sul",
+   "habito_alimentar": "Formigas, cupins, mel, larvas e besouros adultos",
+   "curiosidade": "O tamanduá mirim gosta de viver entre as arvores, por isso sua cauda é adaptada para apanhar galhos",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Herpestidae",
+   "nome_popular": "Suricata",
+   "nome_cientifico": "Suricata suricatta",
+   "incubacao": {
+      "gestacao": "77 dias"
+   },
+   "longevidade": "13 anos",
+   "dist_geografica": "Continente africano",
+   "habito_alimentar": "Onívoros, raízes e outras partes vegetais além de artrópodes como aranhas e escaravalhos",
+   "curiosidade": "Os suricatas vivem em colônias de até 40 indivíduos, constroem um complexo sistema de túneis, onde permanecem durante a noite. Dentro do grupo, os animais dividem as tarefas de vigia e proteção das crias da comunidade.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Herpestidae",
+   "nome_popular": "Mangusto tigrado",
+   "nome_cientifico": "Mungos mungo",
+   "incubacao": {
+      "gestacao": "60 dias"
+   },
+   "longevidade": "8-10 anos",
+   "dist_geografica": "Continente africano",
+   "habito_alimentar": "Carnívoros (invertebrados, aves e répteis)",
+   "curiosidade": "Os mangustos são mamíferos pequenos e ágeis, conhecidos por matar najas e outras cobras venenosas. O mangusto se lança contra o crânio da cobra, tentando quebrá-lo com uma mordida poderosa. Há mais de quarenta espécies de mangusto.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Herpestidae",
+   "nome_popular": "Furão",
+   "nome_cientifico": "Galictis cuja",
+   "incubacao": {
+      "gestacao": "60 dias"
+   },
+   "longevidade": "8-10 anos",
+   "dist_geografica": "Brasil, argentina e paraguai",
+   "habito_alimentar": "Carnívoros (pequenos mamíferos, aves, ovos e répteis)",
+   "curiosidade": "Acredita-se que sejam monogâmicos, ou seja, tenham apenas um parceiro. As principais ameaças à espécie são a degradação e fragmentação ambiental, a caça, ataques a criações e atropelamentos.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Primatas Africanos",
+   "nome_popular": "Macaco-pata",
+   "nome_cientifico": "Erytrocebus pata",
+   "incubacao": {
+      "gestacao": "187 dias"
+   },
+   "longevidade": "40 anos",
+   "dist_geografica": "Continente africano",
+   "habito_alimentar": "Frutas, folhas, pequenos vertebrados e invertebrados",
+   "curiosidade": "Macacos-Pata vivem em grupos sociais compostos de várias fêmeas e apenas um macho, quando os filhotes machos atingem a maturidade sexual, são expulsos do grupo e podem unir-se a um grupo de machos ou viver um estilo de vida solitário.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Primatas Africanos",
+   "nome_popular": "Mandril",
+   "nome_cientifico": "Mandrillus sphinx",
+   "incubacao": {
+      "gestacao": "250-270 dias"
+   },
+   "longevidade": "30-35 anos",
+   "dist_geografica": "Oeste docontinente Africano",
+   "habito_alimentar": "Frutas, folhas, raízes e pequenos vertebrados",
+   "curiosidade": "Mandris formam grandes grupos sociais, que em média, possuem até 800 indivíduos, porém os grupos podem ser bem maiores, o maior grupo observado continham mais de 1.300 indivíduos. Os grupos são compostos de fêmeas e liderados por um macho dominante.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Primatas Africanos",
+   "nome_popular": "Babuíno-comum",
+   "nome_cientifico": "Papio papio",
+   "incubacao": {
+      "gestacao": "187 dias"
+   },
+   "longevidade": "17 anos",
+   "dist_geografica": "Continente africano",
+   "habito_alimentar": "Frutas, folhas, tubérculos e pequenos vertebrados",
+   "curiosidade": "Os grupos de babuínos são compostos de machos e fêmeas, possuindo um macho dominante, há pouca disputa por fêmeas pois, quando no cio, acasalam livremente com todos os machos, ao contrário de outras espécies onde apenas o macho dominante acasala com as fêmeas.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Primatas Africanos",
+   "nome_popular": "Babuíno-sagrado",
+   "nome_cientifico": "Papiro hamadryas",
+   "incubacao": {
+      "gestacao": "180 dias"
+   },
+   "longevidade": "36 anos",
+   "dist_geografica": "África e Ásia",
+   "habito_alimentar": "Frutas, folhas, tubérculos e pequenos vertebrados",
+   "curiosidade": "Os babuínos podem correr muito rápido e, em geral, buscam abrigo quando perseguidos por predadores. Vivem em grupos sociais e possuem uma complexa relação social.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Aves Gigantes",
+   "nome_popular": "Avestruz",
+   "nome_cientifico": "Struthyo camelus",
+   "incubacao": {
+      "gestacao": "42 dias"
+   },
+   "longevidade": "40 anos",
+   "dist_geografica": "Continente africano",
+   "habito_alimentar": "Folhas, frutas, sementes, e pequenos vertebrados",
+   "curiosidade": "Os avestruzes são as maiores aves viventes do mundo, o macho se difere da fema pela plumagem preta com bordas brancas nas assas enquanto a feme é toda cinza",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves Gigantes",
+   "nome_popular": "Casuar",
+   "nome_cientifico": "Casuarius casuarius",
+   "incubacao": {
+      "gestacao": "60 dias"
+   },
+   "longevidade": "60 anos",
+   "dist_geografica": "australia e nova guine",
+   "habito_alimentar": "Folhas, sementes, frutas e pequenos vertebrados",
+   "curiosidade": "Os casuares são aves bastante agrecivas, sua domesticação por completo não foi possivel, quando se sentem ameaçadas usam suas garras e crista do alto de sua cabeça para se defender.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves Gigantes",
+   "nome_popular": "Ema",
+   "nome_cientifico": "Rhea americana",
+   "incubacao": {
+      "gestacao": "42 dias"
+   },
+   "longevidade": "20-25 anos",
+   "dist_geografica": "brasil, bolivia, urugai e argentina",
+   "habito_alimentar": "Folhas, sementes, frutas e pequenos vertebrados",
+   "curiosidade": "A Ema é a ave gigante nativa da america do sul, ela usa suas asas para se equilibrar durante corridas visto que seria grande de mais para alaçar voo",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Aves Gigantes",
+   "nome_popular": "Emu",
+   "nome_cientifico": "Dromaius novaehollandiae",
+   "incubacao": {
+      "gestacao": "52 dias "
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "austrália",
+   "habito_alimentar": "Folhas, sementes, frutas e pequenos vertebrados",
+   "curiosidade": "Emu é a segunda maior ave do mundo, possuem ovos coloridos e muito bonitos",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Corujas",
+   "nome_popular": "Murucututu de barriga amarela",
+   "nome_cientifico": "Pulsatrix koeniswaldiana",
+   "incubacao": {
+      "gestacao": "25 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "Brasil (sudeste), paraguai e argentina",
+   "habito_alimentar": "Pequenos vertebrados e grandes insetos",
+   "curiosidade": "O murucutu de barriga amarela possui esse nome devido a coloração amarelada em sua barriga, em geral nitificam em ocos de árvores mortas, o macho é responsável por trazer alimento para a fêmea e para os filhotes.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Corujas",
+   "nome_popular": "Coruja-de-orelha",
+   "nome_cientifico": "Rhynoptynix clamator\n(Asio clamator)",
+   "incubacao": {
+      "gestacao": "30 a 34 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "Brasil e toda america do sul",
+   "habito_alimentar": "Pequenos vertebrados e invertebrados",
+   "curiosidade": "A coruja-orelhuda são capazes de viver em ambientes diversos, até em áreas urbanas, grandes casadoras noturnas",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Corujas",
+   "nome_popular": "Suindara",
+   "nome_cientifico": "Tyto furcata",
+   "incubacao": {
+      "gestacao": "30-34 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "Pelo mundo todo exceto antartida",
+   "habito_alimentar": "Pequenos vertebrados, principalmente roedores",
+   "curiosidade": "Suindara é uma especie de coruja muito comum no Brasil, gosta de nidificar em tores de igrejas o que faz com que também seja conehcida como coruja-das-torres",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Corujas",
+   "nome_popular": "Mocho-diabo",
+   "nome_cientifico": "Asio stygius",
+   "incubacao": {
+      "gestacao": "25 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "Brasil, do sul da américa do norte até a argentina",
+   "habito_alimentar": "Pequenos vertebrados",
+   "curiosidade": "O mocho-diabo recebe esse nome devido a sua coloração escura e pela cor vermelho brilhante dos olhos ao refletir a luz incidente, porém são animais que não causam problemas a seres humanos, sendo sua presença desejave visto que comem muitos animais pragas como ratos.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Corujas",
+   "nome_popular": "Mocho-orelhudo",
+   "nome_cientifico": "Bubo virginianus",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "20-25 anos",
+   "dist_geografica": "Brasil e todo continente americano",
+   "habito_alimentar": "Pequenos vertebrados",
+   "curiosidade": "O Jacurutu é a maior coruja existente no Brasil, é uma poderosa caçadora noturna.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Corujas",
+   "nome_popular": "Murucututu",
+   "nome_cientifico": "Pulsatrix perspicillata",
+   "incubacao": {
+      "gestacao": "35 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "Brasil, américa central e do sul",
+   "habito_alimentar": "Pequenos vertebrados",
+   "curiosidade": "O murucutu é econtrado em florestas altas, capoeiras e florestas de galeria, apesar de noturna, pode ser visto durante dias nublados.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Cisne",
+   "nome_popular": "Cisne Negro",
+   "nome_cientifico": "Cygnus atratus",
+   "incubacao": {
+      "gestacao": "34-36 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Austrália",
+   "habito_alimentar": "Sementes, folhas e pequenos crustáceos",
+   "curiosidade": "Pertencem a família Anatidae, a mesma que abriga patos, gansos, e demais cisnes. O cisne-negro utiliza o mesmo ninho todos os anos, reparando-se e reconstruindo-se quando necessário, os cuidados do ninho são compartilhados entre macho e fêmea.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Cervídeos",
+   "nome_popular": "Cervo-nobre",
+   "nome_cientifico": "Cervus elaphus",
+   "incubacao": {
+      "gestacao": "270 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "europa e ásia",
+   "habito_alimentar": "Herbívoro",
+   "curiosidade": "São animais sociáveis formando grupos de até 07, sua pelagem vira conforme a estação do ano.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Cervídeos",
+   "nome_popular": "Cervo-dama",
+   "nome_cientifico": "Dama dama",
+   "incubacao": {
+      "gestacao": "270 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "india",
+   "habito_alimentar": "Herbívoro",
+   "curiosidade": "São animais sociáveis que andam em grupos para diminuir as possilidades de predação",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Antilopes",
+   "nome_popular": "Cervicapra",
+   "nome_cientifico": "Antilope cerbicapra",
+   "incubacao": {
+      "gestacao": "230-240 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "india e paquistão",
+   "habito_alimentar": "Herbívoro",
+   "curiosidade": "São animais sociáveis que andam em grupos entre 5 a mais de 20 individuos,geralmente com apenas um macho e o restante femeas",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Camelídeos",
+   "nome_popular": "Lhama",
+   "nome_cientifico": "lama glama",
+   "incubacao": {
+      "gestacao": "330 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "argentina, bolivia, chile, perú",
+   "habito_alimentar": "Herbívoro",
+   "curiosidade": "Conhecido por sua pelagem muitas vezes utilizados para fazer lã e tecer roupas,foram domesticadas pelos incas",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Camelídeos",
+   "nome_popular": "Alpaca",
+   "nome_cientifico": "Vicugna pacos",
+   "incubacao": {
+      "gestacao": "300 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "desetos da africa e asia",
+   "habito_alimentar": "Herbívoro",
+   "curiosidade": "A alpaca é parente próximo das lhamas,ela é menor com pelagem mais longa e maciaque as lhamas.",
+   "risco_extincao": "Sem informações",
+   "url_foto": "https://statig1.akamaized.net/bancodeimagens/5i/6x/4l/5i6x4ly396q2ioenmxznv4zd3.jpg"
+},
+ {
+   "secao_zoo": "Camelídeos",
+   "nome_popular": "Camelo",
+   "nome_cientifico": "camelus bactrianus",
+   "incubacao": {
+      "gestacao": "300 dias"
+   },
+   "longevidade": "25 anos",
+   "dist_geografica": "argentina, bolivia, chile, perú",
+   "habito_alimentar": "Herbívoro",
+   "curiosidade": "O coletivo de camelos é cáfila, quando se sentem ameaçados costumam a cuspir e/ou morder quem estiver os incomodando",
+   "risco_extincao": "CR"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Mustelídeos",
+   "nome_popular": "Irara",
+   "nome_cientifico": "Eira barbara",
+   "incubacao": {
+      "gestacao": "63-70 dias"
+   },
+   "longevidade": "15-18 anos",
+   "dist_geografica": "brasil, desde o sul do méxico até argentina",
+   "habito_alimentar": "Frutas, mel e pequenos vertebrados",
+   "curiosidade": "O nome \"irara\" tem origem do tupi e significa \"a tomadora de mel\", isso vem do  fato de gostar muito desse tipo de animento",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Aves ribeirinhas",
+   "nome_popular": "Maria-faceira",
+   "nome_cientifico": "Syrigma sibilatrix",
+   "incubacao": {
+      "gestacao": "22-23 dias"
+   },
+   "longevidade": "8-10 anos",
+   "dist_geografica": "brasil (sul e sudeste), bolivia, argentina e paraguai",
+   "habito_alimentar": "Peixes e pequenos invertebrados",
+   "curiosidade": "A maria faceira possui esse nome_popular devido a sua linda coloração. Ela é a única ave brasileira, conhecida, que consegue viver tanto em locais alagados quanto em locais secos, sendo um dos primeiros animais a colonizar áreas recém-queimadas. Enquanto voa a Maria faceira estica o seu pescoço diferente da maioria das garças que voa com o pescoço dobrado em “S”.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves ribeirinhas",
+   "nome_popular": "Curicaca",
+   "nome_cientifico": "Theristicus caudatus",
+   "incubacao": {
+      "gestacao": "20-25 dias"
+   },
+   "longevidade": "6-8 anos",
+   "dist_geografica": "brasil e toda america do sul",
+   "habito_alimentar": "Insetos, moluscos e pequenos vertebrados",
+   "curiosidade": "A curica também é conhecida como “o despertador do Pantanal” devido a sua forte vocalização. vive em pequenos bandos de 8 a 10 aves ou sozinha",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves ribeirinhas",
+   "nome_popular": "Guará",
+   "nome_cientifico": "Eudocimus ruber",
+   "incubacao": {
+      "gestacao": "20-24 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "brasil e toda a costa atlântica da américa do sul",
+   "habito_alimentar": "Pequenos peixes e crustáceos",
+   "curiosidade": "Assim como os flamingos os guarás possuem a pigmentação vermelha devido a sua alimentação rica em carotenóide cantaxantina e betacaroteno de, principalmente, crustáceos, parando de ingerir esses componentes a ave irá descolorir até se tornar branca.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves ribeirinhas",
+   "nome_popular": "Atobá",
+   "nome_cientifico": "Sula leucogaster",
+   "incubacao": {
+      "gestacao": "45 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "litoral do brasil (sudeste e nordeste), litoral dos mares tropicais e subtropicais",
+   "habito_alimentar": "Peixes",
+   "curiosidade": "Os atobás são aves marinhas e adaptadas para o nado e pesca. Sabe-se de 5 espécies que foram registradas no Brasil.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves ribeirinhas",
+   "nome_popular": "Coscoroba",
+   "nome_cientifico": "Coscoroba coscoroba",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "8-10 anos",
+   "dist_geografica": "brasil (sul), argentina, chile e paraguai",
+   "habito_alimentar": "Sementes e pequenos invertebrados",
+   "curiosidade": "Constróem ninho no meio de lagos rasos. A fêmea põe de 4 a 6 ovos, excepcionalmente podendo colocar até nove, e o período de incubacao é de 35 dias.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves ribeirinhas",
+   "nome_popular": "Ibis sagrado",
+   "nome_cientifico": "Threskiornis aethiopicus",
+   "incubacao": {
+      "gestacao": "21 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "america do sul, austrália, europa e norte da áfrica",
+   "habito_alimentar": "Peixes, moluscos, crustáceos e pequenos vertebrados",
+   "curiosidade": "O Íbis-sagrado era considerado, pelos antigos egípcios, como encarnação do deus Thoth, uma divindade lunar, devido a sua plumagem negra e brancas lembrando a imagem da Lua arredondada, além disso ao predar gafanhotos, lagartas e répteis prestava um grande serviço aquela sociedade.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Grandes psitacídeos",
+   "nome_popular": "Arara-canindé",
+   "nome_cientifico": "ara ararauna",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Norte do Brasil até o méxico",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "As araras-canindé são muito características da nossa terra, trazendo inclusive, em sua plumagem as cores da bandeira nacional. Desde o descobrimento do País, as araras, papagaios, periquitos, jandaias e maracanãs são responsáveis pelo apelido dado ao Brasil de “Terra dos Papagaios”.Devido a sua grande distribuição elas ainda não são calcificadas como em risco_extincao, porém sua população está em declínio devido a perda de habitat e tráfico de animais silvestres.",
+   "risco_extincao": "LC", 
+   "url_foto": "https://static.wixstatic.com/media/3d5dc1_8b18c6898c5b4cabb59cc905d135f573.jpg/v1/fill/w_650,h_650,al_c,q_85/3d5dc1_8b18c6898c5b4cabb59cc905d135f573.jpg"
+},
+ {
+   "secao_zoo": "Grandes psitacídeos",
+   "nome_popular": "Arara-vermelha",
+   "nome_cientifico": "ara macao",
+   "incubacao": {
+      "gestacao": "30 dias"
+   },
+   "longevidade": "60 anos",
+   "dist_geografica": "Brasil, paraguai, colômbia e venezuela",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "São aves monogâmicas, ou seja, após formarem um casal este irá se manter até o fim da vida. Elas costumam se alimentar de terra e barro (normalmente ricos em minerais), provavelmente para auxiliar na neutralização de vegetais de frutos verdes.",
+   "risco_extincao": "LC", 
+   "url_foto": "https://www.ac24horas.com/wp-content/uploads/2019/03/Arara-Vermelha-4.jpg"
+},
+ {
+   "secao_zoo": "Grandes psitacídeos",
+   "nome_popular": "Arara-piranga",
+   "nome_cientifico": "ara chioroptera",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Brasil, paraguai e argentina",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "Espécie semelhante à arara-vermelha, porém é um pouco menor e com penas amarelas nas asas. Vivem em bandos sendo ainda mais frequentes na Amazônia. Podem ser observados em paredões ao longo dos rios, onde procuram sais minerais.",
+   "risco_extincao": "LC", 
+   "url_foto": "https://estudandoabiologia.files.wordpress.com/2012/10/18.jpg"
+},
+ {
+   "secao_zoo": "Grandes psitacídeos",
+   "nome_popular": "Arara-azul",
+   "nome_cientifico": "anodorhynchus hyacinthinus",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "50 anos",
+   "dist_geografica": "Brasil e paraguai",
+   "habito_alimentar": "Frutas e sementes",
+   "curiosidade": "São aves monogamicas, ou seja, após formarem um casal, este permanece até o fim da vida, é comum ver os casais se acariciando com o bico (preening) o que serve para a limpeza das penas bem como socialização das aves. Essa ave está atualmente ameaçada de extinção devido à caça, ao comércio clandestino e à degradação em seu habitat natural por conta do desmatamento.",
+   "risco_extincao": "VU", 
+   "url_foto": "https://static.escolakids.uol.com.br/conteudo_legenda/a-arara-azul-uma-ave-familia-dos-psitacideos-5c8a3e0c53ef2.jpg"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Ilha do grou",
+   "nome_popular": "Grou-coroado",
+   "nome_cientifico": "Balearica pavonina",
+   "incubacao": {
+      "gestacao": "28-35 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "Continente africano",
+   "habito_alimentar": "Frutas, sementes e invertebrados",
+   "curiosidade": "Os grous-coroados costumam formar grandes bandos com mais de 60 indivíduos, são animais monogâmicos e mantêm o mesmo parceiro por toda a vida, são os únicos grous conhecidos que se empoleiram em árvores e não migram.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Ilha do grou",
+   "nome_popular": "Marreco carolina",
+   "nome_cientifico": "Aix sponsa",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "America do norte",
+   "habito_alimentar": "Frutas, sementes e invertebrados",
+   "curiosidade": "O macho adulto tem olhos vermelhos, plumagem iridescente e multi-colorida, já a fêmea é menos colorida.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Outros",
+   "nome_popular": "Anta",
+   "nome_cientifico": "Tapirus terrestris",
+   "incubacao": {
+      "gestacao": "390-400 dias"
+   },
+   "longevidade": "25 anos",
+   "dist_geografica": "Brasil e toda américa do sul",
+   "habito_alimentar": "Herbívora",
+   "curiosidade": "A anta é a o maior mamífero da América do Sul, sendo a fêmea maior que o macho, medindo até 2 metros e pesado até 300Kg, Existem 4 espécies de antas conhecidas popularmente como Anta-brasileira, Anta-andina, Anta-de-Baird e Anta-malaia, todas encontradas na América do sul com exceção da Anta-malaia é encontrada na asia",
+   "risco_extincao": "VU", 
+   "url_foto": "https://abrilveja.files.wordpress.com/2019/10/jair-bolsonaro-2019.jpg"
+},
+ {
+   "secao_zoo": "Outros",
+   "nome_popular": "Flamingo chileno",
+   "nome_cientifico": "Phoenicopterus chilensis",
+   "incubacao": {
+      "gestacao": "27-31 dias"
+   },
+   "longevidade": "10-15 anos",
+   "dist_geografica": "Brasil (sul e sudeste), argentina, bolivia, chile e perú",
+   "habito_alimentar": "Pequenos invertebrados aquáticos e algas",
+   "curiosidade": "O Flamingo-chileno põe um único ovo em ninho de lama perto ou sobre água rasa. Sua cor é proveniente de sua dieta, se o flamingo parar de comer algas e invertebrados ricos em betacaroteno eles irão desbotar até ficarem brancos",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Outros",
+   "nome_popular": "Marreco Mandarim",
+   "nome_cientifico": "Aix galericula",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "China",
+   "habito_alimentar": "Sementes e pequenos invertebrados",
+   "curiosidade": "Os Patos Mandarins estão muito presentes na cultura e arte Oriental, sendo considerados como símbolos de carinho e fidelidade conjugal. Formam casais monogâmicos, a após acasalarem matem o mesmo companheiro pelo resto da vida.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Outros",
+   "nome_popular": "Ouriço",
+   "nome_cientifico": "Sphiggurus villosus",
+   "incubacao": {
+      "gestacao": "60 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "brasil, sul e sudeste",
+   "habito_alimentar": "Folhas e frutas",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Outros",
+   "nome_popular": "Lobo-Guará",
+   "nome_cientifico": "Chrysocyon brachyurus",
+   "incubacao": {
+      "gestacao": "65 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "Brasil, Argentina, Bolívia, Paraguai, Peru e Uruguai",
+   "habito_alimentar": "Onívoros (pequenos mamíferos, aves, repteis, invertebrados e frutos como os da lobeira)",
+   "curiosidade": "O lobo-guará gosta de uma fruta cuja árvore recebeu o nome de lobeira por causa da sua preferência. Após comer a fruta-do-lobo ele ajuda a espalhar suas sementes, pois as elimina através de suas fezes.",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Pequenos Ramphastideos",
+   "nome_popular": "Araçari castanho",
+   "nome_cientifico": "Pteroglossus castanotis",
+   "incubacao": {
+      "gestacao": "16 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "brasil (da bahia ao rio grande do sul) e argentina",
+   "habito_alimentar": "Frutas, invertebrados e ocasionalmente filhotes de aves menores",
+   "curiosidade": "Muito semelhante ao tucano devido ao seu grande bico, o araçari é muito delicado e trabalha com destreza até com pequenos frutos, seu principal alimento.",
+   "risco_extincao": "LC", 
+   "url_foto": "https://s3.amazonaws.com/media.wikiaves.com.br/images/419/914492_bbae604dc76808e005d99d526a6b0ace.jpg"
+},
+ {
+   "secao_zoo": "Pequenos Ramphastideos",
+   "nome_popular": "Araçari de bico branco",
+   "nome_cientifico": "Pteroglossus aracari",
+   "incubacao": {
+      "gestacao": "16 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "brasil, guianas e venezuela",
+   "habito_alimentar": "Frutas, invertebrados e ocasionalmente filhotes de aves menores",
+   "curiosidade": "O nome cientifico do araçari, Pteroglossus aracari, é uma mistura de grego com tupi, do (grego) pteros = pena, asa; e glössa = língua; pteroglossus = com língua emplumada e do (tupi) arassari, aracari = palavra indígena tupi que significa pequena ave brilhante (como o dia). Logo o significado de Pteroglossus aracari é Pequena ave brilhante com a língua emplumada.",
+   "risco_extincao": "LC", 
+   "url_foto": "https://s3.amazonaws.com/media.wikiaves.com.br/images/4012/2104789_9dfb656a2113c204ea42befb1c0864a7.jpg"
+},
+ {
+   "secao_zoo": "Pequenos Ramphastideos",
+   "nome_popular": "Araçari poca",
+   "nome_cientifico": "Deroptyus accipitrinus",
+   "incubacao": {
+      "gestacao": "28 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "brasil (sul, sudeste e centro oeste), da colômbia e argentina",
+   "habito_alimentar": "Frutas, invertebrados e ocasionalmente filhotes de aves menores",
+   "curiosidade": "O araçari-poca possuio importante papel de dispersor de sementes, contribuindo para a manutenção da floresta. Além disso os Moradores das matas costumam associar o araçari-poca como um “bicho da meteorologia”. Dizem que quando ele começa a bater o bico e a promover uma algazarra o tempo vira.",
+   "risco_extincao": "LC", 
+   "url_foto": "https://s3.amazonaws.com/media.wikiaves.com.br/images/0322/2230449g_3f32ec45e3678f99460613f89807775c.jpg"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Quelônio",
+   "nome_popular": "Tracajá",
+   "nome_cientifico": "Podocnemis unifilis",
+   "incubacao": {
+      "gestacao": "2 a 6 meses"
+   },
+   "longevidade": "Ovíparas, preferem desovar nas margens de lagos e no meio da vegetação, variando o número de ovos de 7 até 34 ovos.",
+   "dist_geografica": "Brasil, Venezuela, Colômbia, Equador, Peru, Bolívia, Guiana, Guina Francesa e Suriname",
+   "habito_alimentar": "Onívora com tendências a herbivoria",
+   "curiosidade": "O sexo dessas tartarugas é determinado pela temperatura de incubacao dos ovos, em geral machos são resultados de temperaturas entre 28, 30 e 31ºC, enquanto fêmeas nascem de ovos incubados em temperaturas acima de 32ºC.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Quelônio",
+   "nome_popular": "Tigre d`agua",
+   "nome_cientifico": "Trachemys dorbignyi",
+   "incubacao": {
+      "gestacao": "2 a 4 meses"
+   },
+   "longevidade": "Ovíparo. Desova entre 1 e 18 ovos por postura.",
+   "dist_geografica": "Brasil, Argentina e Uruguai",
+   "habito_alimentar": "Onívora",
+   "curiosidade": "Esta espécie é uma das maiores vítimas do comércio ilegal de animais, sua linda coloração chama a atenção quando jovem, é vendida com a promessa de que manterá as listas amareladas sobre um fundo vende durante toda a vida além de não crescerem, porém, quando adulta pode chegar até 30 cm e perde a intensidade de suas cores e são abandonados em lagos ou nas mãos de entidades de todo o país, causando um novo desequilíbrio, devido à complexidade dos trabalhos de reintrodução à natureza de animais criados em cativeiro.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Quelônio",
+   "nome_popular": "Cágado barbicha",
+   "nome_cientifico": "Phrynops geoffroanus",
+   "incubacao": {
+      "gestacao": "5 meses"
+   },
+   "longevidade": "Ovíparos, As fêmeas podem ter duas posturas no ano (entre fevereiro e maio e outra entre setembro e dezembro). A fêmea pode depositar de 6 a 32 ovos ",
+   "dist_geografica": "Brasil, Venezuela, Colômbia, Equador, Peru, Guiana, Bolívia, Paraguai e Argentina.",
+   "habito_alimentar": "Onívora com tendências a herbivoria",
+   "curiosidade": "Cágado barbicha é muito resistente a poluições ambientais, são comumente encontrados em rios, lagos e lagoas de correnteza lenta, infelizmente muitas vezes filhores desses animias são comprados do trafico ilegal e jogados em rios o que causa gigantescos impacots ambientais ao ecossistema local",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Quelônio",
+   "nome_popular": "Jabuti Piranga",
+   "nome_cientifico": "Geochelone carbonaria",
+   "incubacao": {
+      "gestacao": "9 meses"
+   },
+   "longevidade": "Oviparos, Reproduzem-se geralmente durante a primavera e após 6 anos de idade. A fêmea pode depositar até 20 ovos.",
+   "dist_geografica": "Américas Centrais e do Sul.",
+   "habito_alimentar": "Onívora com tendências a herbivoria",
+   "curiosidade": "Jabutis são tartarugas de habito terrícola capazes de se retraírem seus membros para dentro de seu casco. Apesar de não haver subespécies a Jabuti Piranga possui uma grande variedade de tipos físicos de acordo com sua localização geográfica, ou cruzamentos em cativeiro",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Quelônio",
+   "nome_popular": "Tartaruga-da-amazônia",
+   "nome_cientifico": "Podocnemis expansa",
+   "incubacao": {
+      "gestacao": "45 a 60 dias"
+   },
+   "longevidade": "Ovíparos, de vazante retornam à calha dos rios em busca das praias arenosas para nidificação, põem uma média de 100 ovos e não ha cuidado parental, quando os ovos eclodem as pequenas tartarugas instintivamente buscam a água",
+   "dist_geografica": "Brasil, Colômbia, Venezuela, Guianas, Peru, Equador e Bolívia.",
+   "habito_alimentar": "Herbívora",
+   "curiosidade": "A Tartaruga-da-amazônia é considerada o maior quelônio da América do Sul, podendo alcançar mais que 90 cm de comprimento e pesar até 75 kg.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Quelônio",
+   "nome_popular": "Tartaruga Mordedora",
+   "nome_cientifico": "Chelydrus serpentina",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovíparos, não ocorre cuidado parental. Botam entre 25 a 45 ovos, o sexo dos filhotes é determinado pela temperatura de incubacao, em temperaturas mais elevadas produzem mais fêmeas e em temperaturas mais baixas produzem os machos.",
+   "dist_geografica": "Sul do Canadá e parte dos EUA.",
+   "habito_alimentar": "Onívoro",
+   "curiosidade": "É conhecida popularmente como tartaruga-mordedora devido a sua poderosa mordida utilizada para agarrar suas presas.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Quelônio",
+   "nome_popular": "Jabuti Tinga",
+   "nome_cientifico": "Geochelone denticulata",
+   "incubacao": {
+      "gestacao": "4,5 meses"
+   },
+   "longevidade": "Ovíparos, não há cuidado parental. A espécie possui um período reprodutivo por ano com múltiplas desovas, podendo depositar até 20 ovos por desova.",
+   "dist_geografica": "Brasil, Bolívia, Colômbia, Guiana Francesa, Guiana, Peru, Suriname, Trinidad e Tobago",
+   "habito_alimentar": "Onívora com tendências a herbivoria",
+   "curiosidade": "Devido as suas cores chamativas os jabutis-tinga chamaram a atenção do tráfico de animais, e a procurada por sua carne fez com que entrasse como animal vulnerável na lista de animais ameaçados de extinção, atualmente é proibido ter jabutis-tinga sem autorização do IBAMA. Além do tráfico de animais o jabuti-tinga está sofrendo com o desmatamento e perda de seu habitat natural, a floresta Amazônica.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Jacaré",
+   "nome_popular": "Jacaré Do Pantanal",
+   "nome_cientifico": "Caiman yacare",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovíparos, não ocorre cuidado parental. O habitat de nidificação e temperatura podem influenciar na determinação de sexo dos embriões, ovos incubados em temperaturas baixas produzem fêmeas enquanto temperaturas mais altas produzem, em geral, machos.",
+   "dist_geografica": "Bolívia, Brasil e Argentina",
+   "habito_alimentar": "Carnívoros (diversos vertebrados e invertebrados)",
+   "curiosidade": "Os jacarés-do-pantanal são animais aquáticos, mas que também podem se movimentar em ambientes terrestres. Quando em terra os jacarés-do-pantanal tendem a se deslocarem em grupos de até 30 indivíduos, em fila indiana, distante uns dos outros em até cinco metros. As principais ameaças para esta espécie são: a redução e modificação do habitat (ocupação urbana, desmatamentos, atividades agropecuárias, industriais, poluição de ambientes e usinas hidrelétricas) além da caça.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Jacaré",
+   "nome_popular": "Jacaré do Papo-Amarelo",
+   "nome_cientifico": "Caiman latirostris",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovíparos, não ocorre cuidado parental. Põem de 30 a 60 ovos por linhada. A temperatura pode influenciar na determinação de sexo dos embriões, ovos incubados em temperaturas baixas produzem fêmeas enquanto temperaturas mais altas produzem, em geral, machos.",
+   "dist_geografica": "Argentina, Bolívia, Brasil, Paraguai e Uruguai",
+   "habito_alimentar": "Carnívoros (diversos vertebrados e invertebrados)",
+   "curiosidade": "O jacaré-do-papo-amarelo possui o menor e mais compacto focinho dentre todos os crocodilianos, capaz de produzir uma forte mordida.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Jacraraca",
+   "nome_cientifico": "Bothrops moojeni",
+   "incubacao": {
+      "gestacao": "sem informações"
+   },
+   "longevidade": "Vivípara, tem uma única ninhada por ano, costumam nascer 12 a 14, ou mais, filhotes",
+   "dist_geografica": "Brasil, Argentina, Paraguai e Bolívia",
+   "habito_alimentar": "Carnívoros (diversos vertebrados e invertebrados)",
+   "curiosidade": "Possuem hábito noturno e terrestre, ela abrigam-se em tocas no chão, troncos e ocos de árvores. Os filhotes para capturar presas abanam a ponta da cauda, como se fosse uma isca, atraindo anfíbios e lagartos.",
+   "risco_extincao": "Sem Informações"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Jiboia",
+   "nome_cientifico": "Boa constrictor",
+   "incubacao": {
+      "gestacao": "5 a 8 meses"
+   },
+   "longevidade": "Vivípara, produzir de 8 a 64 filhotes por ninhada",
+   "dist_geografica": "América do Sul e Central",
+   "habito_alimentar": "Carnívora (pequenos mamíferos, aves, anfíbios e lagartos)",
+   "curiosidade": "O bote da jiboia consiste em se enroscar na presa e a esmagar com seus poderosos músculos até que a presa morra por asfixia, em seguida a presa é engolida inteira pela jiboia. As jiboias não são cobras peçonhentas, ou seja, não possuem órgãos de inoculação de veneno (como presas ou garras), e em geral evitam a presença humana, vale a pena destacar que quando se sentem ameaçadas ou acuadas irão se colocam em posição de defesa, expirando o ar dos pulmões com força produzindo um ruído característico, conhecido como “o bafo da jiboia”, que não é tóxico e nem causa manchas na pele. ",
+   "risco_extincao": "Sem Informações"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Piton Bola",
+   "nome_cientifico": "Python regius",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovíparos, não há cuidado parental. Botam de 1 a 10 ovos por ninhada",
+   "dist_geografica": "Senegal, Mali, Guiné-Bissau, Guiné, Serra Leoa, Libéria, Costa do Marfim, Gana, Benin, Nigéria, Camarões, Chade, Sudão, Uganda e República Centro-Africana.",
+   "habito_alimentar": "Carnívora (pequenos mamíferos, aves, anfíbios e lagartos)",
+   "curiosidade": "São capazes de enxergar a luz ultravioleta, conferindo-as vantagens na caçada de presas.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Piton Indiana",
+   "nome_cientifico": "Python molurus bivittatus",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovíparos, as fêmeas põem em média cerca de 40 ovos em cada postura, a fêmea após preparar o ninho se enrolada sobre os ovos e os mantêm quentes através de contrações musculares.",
+   "dist_geografica": "Sul e Sudeste Asiático.",
+   "habito_alimentar": "Carnívora (pequenos mamíferos, aves, anfíbios e anfíbios)",
+   "curiosidade": "Considerada como uma das maiores cobras do mundo",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Caninana",
+   "nome_cientifico": "Spilotes pullatus",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovípara, põem entre 8 a 15 ovos, não há cuidado parental",
+   "dist_geografica": "América Latina",
+   "habito_alimentar": "Carnívora (pequenos mamíferos, aves, anfíbios e anfíbios)",
+   "curiosidade": "São muito conhecidas por sua agilidade e precisão usada por ela para capturar suas prezas (em geral ratos e aves).",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Cascavel",
+   "nome_cientifico": "Crotalus durissus",
+   "incubacao": {
+      "gestacao": "5 meses"
+   },
+   "longevidade": "Vivíparas, se reproduzem uma vez a cada dois anos, uma fêmea pode gerar de 6 a 22 filhotes numa mesma ninhada.",
+   "dist_geografica": "América do Sul (da Colômbia até a Argentina)",
+   "habito_alimentar": "Carnívora (pequenos mamíferos e aves)",
+   "curiosidade": "São animais peçonhentos, ou seja, possuem órgão inoculador de veneno (dentes), o veneno da cascavel é neurotóxico afetando o sistema nervoso, diminuindo os impulsos nervosos e podendo causar parada respiratória.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Cobra Do Milho",
+   "nome_cientifico": "Pantherophis guttatus",
+   "incubacao": {
+      "gestacao": "2 meses"
+   },
+   "longevidade": "Ovípara, põem em media 24 ovos por ninhada, não há cuidado parental",
+   "dist_geografica": "EUA, México e ilhas Caimão.",
+   "habito_alimentar": "Carnívora (pequenos mamíferos)",
+   "curiosidade": "A Pantherophis guttatus possui o nome_popular cobra-do-milho por sempre ser encontrada em  celeiros onde caçavam ratos o que ajudava os agricultores, há também a história que as tribos Okeetee, que viviam na América, idolatravam estas cobras, dizendo que eram espíritos que nasciam do milho, devido ao facto de as suas cores serem idênticas às do milho índio, que já não é cultivado.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Cobra Preta",
+   "nome_cientifico": "Pseudoboa nigra",
+   "incubacao": {
+      "gestacao": "Sem informações"
+   },
+   "longevidade": "Ovípara, não há cuidado parental",
+   "dist_geografica": "Brasil, Argentina e Paraguai",
+   "habito_alimentar": "Carnívora (pequenos mamíferos e répteis em especial roedores e outras cobras).",
+   "curiosidade": "As serpentes jovens dessa espécie possuem a cabeça com cor preta e branca e o corpo possui cor avermelhada. Já os adultos são de cor preta, podendo alguns indivíduos ,apresentar machas brancas pelo corpo.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Sucuri ",
+   "nome_cientifico": "Eunectes murinus",
+   "incubacao": {
+      "gestacao": "7 meses"
+   },
+   "longevidade": "Ovípara, de reprodução poliândrica, ou seja, vários machos são necessários para fecundar uma única fêmea. Podem gerar de 20 a 40 filhotes por ninhada. Os filhotes nascem totalmente desenvolvidos e são independentes.",
+   "dist_geografica": "Brasil",
+   "habito_alimentar": "Carnívora (mamíferos, peixes e aves).",
+   "curiosidade": "É considerada uma das maiores serpentes do mundo, sendo inclusive ema de diversos filmes e até músicas. A Sucuri é uma serpente semi-aquática e vive associada aos corpos hídricos.",
+   "risco_extincao": "Sem Informações"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Suaçuboia",
+   "nome_cientifico": "Corallus hortulanus",
+   "incubacao": {
+      "gestacao": "Sem informações"
+   },
+   "longevidade": "Vivípara, dando a luz de 3 a 24 filhotes no final da estação chuvosa.",
+   "dist_geografica": "América central e do sul",
+   "habito_alimentar": "Carnívora repteis (lagartos, rãs, pererecas), mamíferos (roedores, cuícas e morcegos) e pequenas aves.",
+   "curiosidade": "Possui uma adaptação evolutiva interessante, os ovários das fêmeas ficam dispostos de uma forma assimétrica (o ovário direito ficando em posição anterior em relação ao esquerdo), isso minimiza a distensão do corpo durante a gravidez e permite que a serpente continue se movimentado com facilidade pelo ambiente.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Serpente",
+   "nome_popular": "Cobra Verde",
+   "nome_cientifico": "Philodryas olfersil",
+   "incubacao": {
+      "gestacao": "Sem informações"
+   },
+   "longevidade": "Ovípara, não há cuidado parental",
+   "dist_geografica": "América do Sul",
+   "habito_alimentar": "Carnívora (Aves, pequenos mamíferos e anfíbios)",
+   "curiosidade": "A cobra verde, ao contrario do que pode-se pensar, são peçonhentas e os acidentes com ela são relativamente frequentes, porém devido ao fato se serem uma espécie é opistoglifodonte, ou seja, possui os dentes inoculadores de veneno na região posterior do maxilar superior, os acidentes acabam não gerando problemas pois muitas vezes a pessoas escapa da inoculação do veneno. Vale ressaltar que as cobras apenas dão o bote em humanos quando se sentem ameaçadas, afim de se protegerem.",
+   "risco_extincao": "Sem Informações"
+},
+ {
+   "secao_zoo": "Lagarto",
+   "nome_popular": "Lagartixa Leopardo",
+   "nome_cientifico": "Eublepharis macularius",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovípara, botando 2 ovos por vez",
+   "dist_geografica": "Oriente médio",
+   "habito_alimentar": "Carnívora (invertebrados em especial insetos)",
+   "curiosidade": "Ovípara, não há cuidado parental",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Lagarto",
+   "nome_popular": "Lagarto Rabo De Macaco",
+   "nome_cientifico": "Corucia zebrata",
+   "incubacao": {
+      "gestacao": "6 a 8 meses"
+   },
+   "longevidade": "Vivípara, a fêmea pari um único grande filhote, após o nascimento ela protegerá sua cria por várias semanas, o cuidado parental em répteis é algo raro na natureza. \n",
+   "dist_geografica": "Ilhas Salomón (Pacífico Sul)",
+   "habito_alimentar": "Herbívora, com tendencia carnívora (principalmente plantas, mas pode se alimentar de pequenos animais)",
+   "curiosidade": "Lagarto Rabo De Macaco",
+   "risco_extincao": "Sem Informações"
+},
+ {
+   "secao_zoo": "Lagarto",
+   "nome_popular": "Dragão Barbado",
+   "nome_cientifico": "Pogona vitticeps",
+   "incubacao": {
+      "gestacao": "Sem informações"
+   },
+   "longevidade": "Ovípara, em temperaturas altas (entre 34°C e 37°C), são geradas mais fêmeas. ",
+   "dist_geografica": "Austrália",
+   "habito_alimentar": "Carnívora com tendencia herbivora ( insetos, folhas e frutos)",
+   "curiosidade": "Por serem muito doceis são muito procurados como animais de estimação, com isso há incentivo ao tráfico ilegal de animais, tenha certeza de, ao possuir um animal selvagem, ter certeza de sua origem e registro ao IBAMA",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Lagarto",
+   "nome_popular": "Iguiana",
+   "nome_cientifico": "Iguana iguana",
+   "incubacao": {
+      "gestacao": "2 a 3 meses"
+   },
+   "longevidade": "Ovípara, põem entre 14 a 68 ovos por ninhada, não há cuidado parental",
+   "dist_geografica": "America latina",
+   "habito_alimentar": "Herbívoros (folhas, brotos, flores e frutos)",
+   "curiosidade": "Em alguns países, como a Venezuela, Panamá, Nicarágua e a Guatemala as iguanas têm um papel importante no desenvolvimento socioeconômico das comunidades rurais, no aproveitamento do couro, carne e  ovos",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Grandes felinos",
+   "nome_popular": "Leão",
+   "nome_cientifico": "Panthera leo",
+   "incubacao": {
+      "gestacao": "100-119 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "continente africano",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "Leões e leoas são grandes predadores de savanas e regiões semidesérticas, podendo chegar a velocidade de 60 km/h em uma corrida. Vivem em grupos onde há um macho que irá ser o líder, caso o líder perca o posto para outro leão, este matará os filhotes do antigo líder.",
+   "risco_extincao": "VU",
+   "url_foto": "https://img.elo7.com.br/product/zoom/1CC2454/quadro-decorativo-animais-leao-decoracao-com-moldura-00-quadro-leao-arte-moderna.jpg"
+},
+ {
+   "secao_zoo": "Grandes felinos",
+   "nome_popular": "Tigre-de-bengala",
+   "nome_cientifico": "Panthera tigris tigris",
+   "incubacao": {
+      "gestacao": "98-113 dias"
+   },
+   "longevidade": "18-20 anos",
+   "dist_geografica": "india e paquistão",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "O tigre-de-bengala é uma das 5 subespécies de tigre existentes hoje, sendo a segunda maior entre elas. Seu nome deve-se à sua presença em Bengala ocidental na Índia, onde inclusive são considerados divindades. Seu padrão de listas é único para cada indivíduo, como impressões digitias em humanos",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Grandes felinos",
+   "nome_popular": "Onça-preta",
+   "nome_cientifico": "Panthera onca",
+   "incubacao": {
+      "gestacao": "95-103 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "brasil, toda américa do sul, américa central até o méxico",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "A onça-preta na realidade é uma onça-pintada que sofre de melanismo, que é quando há uma concentração de pigmentação preta maior do que o normal para espécie devido a uma mutação genética, essa condição é muito rara de ser observada na natureza.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Grandes felinos",
+   "nome_popular": "Onça-pintada",
+   "nome_cientifico": "Panthera onca",
+   "incubacao": {
+      "gestacao": "95-103 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "brasil, toda américa do sul, américa central até o méxico",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "A onça-pintada é o maior felino das américas. Espécie emblemática das matas brasileiras. As crescentes alterações ambientais provocadas pelo homem, assim como o desmatamento e a caça às presas silvestres e às próprias onças são as principais causas da diminuição da população de onças no Brasil.",
+   "risco_extincao": "NT"
+},
+ {
+   "secao_zoo": "Grandes felinos",
+   "nome_popular": "Onça parda",
+   "nome_cientifico": "Puma concolor",
+   "incubacao": {
+      "gestacao": "95-103 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "brasil, toda américa do sul, américa central até o méxico",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "A onça-parda é o segundo maior felino nativo das Américas ficando atrás apenas da onça-pintada.A onça-parda é um dos poucos felinos que não rugem, emitem silvos estridentes e sons similares aos de gatos domésticos quando estão estressados.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Pequenos e médios felinos",
+   "nome_popular": "Jaguatirica",
+   "nome_cientifico": "Leopardus pardalis",
+   "incubacao": {
+      "gestacao": "70 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "Brasil, américa do sul e central",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "A jaguatirica, também chamada de gato-do-mato, é o terceiro maior mamífero das Américas, ficando atrás apenas da onça-pintada e do puma. Possuem a habilidade para escalar árvores e já foram vistas nadando em busca de peixes para se alimentar.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pequenos e médios felinos",
+   "nome_popular": "Gato-mourisco",
+   "nome_cientifico": "Herpailurus yagouaroundi",
+   "incubacao": {
+      "gestacao": "63-70 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "brasil, do méxico até a argentina",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "Jaguarundi é oriundo do tupi yawaum'di que é a junção das palavras Ya'wara(Jaguar/fera) + undi(escuro). Em alguns países de língua espanhola, o jaguarundi também é conhecido como gato colorado, gato moro, león brenero, onza, tigrillo e leoncillo.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Pequenos e médios felinos",
+   "nome_popular": "Gato do mato pequeno",
+   "nome_cientifico": "Leopardus tigrinus",
+   "incubacao": {
+      "gestacao": "73-77 dias"
+   },
+   "longevidade": "13 anos",
+   "dist_geografica": "brasil, america central e do sul",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "É um animal noturno, aparentemente solitário, com hábitos terrestres e muito ágil.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Aves de Rapina",
+   "nome_popular": "Aguia-chilena",
+   "nome_cientifico": "Geranoaetus melanoleucus",
+   "incubacao": {
+      "gestacao": "50 anos"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Brasil e toda américa do sul",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "Com frequências são vistas pousada em mourões de cerca, postes na beira de rodovias e no alto de torres de linhas de transmissão.",
+   "risco_extincao": "LC",
+   "url_foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Blaubussard.jpg/250px-Blaubussard.jpg"
+},
+ {
+   "secao_zoo": "Aves de Rapina",
+   "nome_popular": "Urubu rei",
+   "nome_cientifico": "Sarcoramphus papa",
+   "incubacao": {
+      "gestacao": "32-34 dias"
+   },
+   "longevidade": "40 anos",
+   "dist_geografica": "Brasil e toda américa do sul e central",
+   "habito_alimentar": "",
+   "curiosidade": "O urubu-rei recebe esse nome_popular devido a sua intensa coloração, sendo considerado o maior e mais colorido urubu do Brasil, além disso seu tamanho intimida as demais aves quando está se alimentando. Permitindo que desfrute de seu banquete tranquilamente.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves de Rapina",
+   "nome_popular": "Gavião Caboclo",
+   "nome_cientifico": "Heterospizias meridionalis",
+   "incubacao": {
+      "gestacao": "30-35 dias"
+   },
+   "longevidade": "20 anos",
+   "dist_geografica": "Brasil, américas do sul e central",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "O Gavião-caboclo pode caçar durante incêndios, ele pousa em árvores perto a queimada e espera para apanhar pequenos vertebrados e insetos em fuga do fogo, ele aproveita também o rescaldo para se alimentar de animais e insetos moribundos ou mortos.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves de Rapina",
+   "nome_popular": "Gavião Carcará",
+   "nome_cientifico": "Caracara plancus",
+   "incubacao": {
+      "gestacao": "28-32 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Brasil e todas américa do sul",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "O Cacará apresenta uma parte sem penas perto dos olhos onde pode indicar seu “temperamento”, quando o caracará está em repouso, a cera torna-se vermelha ou alaranjada, quando esta em ação ou de disputa de alimento com outro indivíduo, a cera fica amarelada.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aves de Rapina",
+   "nome_popular": "Gavião de cauda branca",
+   "nome_cientifico": "Buteo albicaudatus",
+   "incubacao": {
+      "gestacao": "36 dias"
+   },
+   "longevidade": "30 anos",
+   "dist_geografica": "Brasil, colômbia, venezuela",
+   "habito_alimentar": "Carnívoro",
+   "curiosidade": "O gavião-de-rabo-branc tem fama de ótimo planador e paira com as asas imóveis, movendo apenas as primárias e a cauda para manter o voo.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": ""
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Cracídeos",
+   "nome_popular": "Jacucaca",
+   "nome_cientifico": "Penelope jacucaca",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "Nordeste do BRASIL",
+   "habito_alimentar": "Frutas, sementes e brotos",
+   "curiosidade": "A Jacutinga costuma a se reproduzir entre os meses de outubro e novembro, tendo ninhadas de 3 a 4 ovos.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Cracídeos",
+   "nome_popular": "Cujubi",
+   "nome_cientifico": "Aburria cujubi",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "Brasil (amazônia), Peru, Colômbia e Guiana",
+   "habito_alimentar": "Frutas, sementes e brotos",
+   "curiosidade": "A espécie pode viver em grupos de 30 ou mais indivíduos. Mede entre 69 e 76 centímetros de comprimento e pesa entre 1,10 e 1,30 quilogramas.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Cracídeos",
+   "nome_popular": "Urumutum",
+   "nome_cientifico": "Nothocrax urumutum",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "Brasil (amazônia), Peru, venezuela e colômbia",
+   "habito_alimentar": "Frutas, sementes e invertebrados",
+   "curiosidade": "O Urumutum, para se reproduzir faz um grande ninho de gravetos, a cerca de 4 metros de altura. Põe 2 ovos brancos. A incubacao dura 30 dias e é atividade exclusiva da fêmea.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Cracídeos",
+   "nome_popular": "Mutum-do-méxico",
+   "nome_cientifico": "Crax rubra",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "15 anos",
+   "dist_geografica": "México",
+   "habito_alimentar": "Frutas, sementes e invertebrados",
+   "curiosidade": "Mutum-do-méxico também conhecido como mutum-grande é o maior mutum existente.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Cracídeos",
+   "nome_popular": "Mutum-de-penacho",
+   "nome_cientifico": "Crax fasciolata",
+   "incubacao": {
+      "gestacao": "30 dias"
+   },
+   "longevidade": "10-12 anos",
+   "dist_geografica": "Brasil, argentina, bolivia e paraguai",
+   "habito_alimentar": "Frutas, sementes e invertebrados",
+   "curiosidade": "O mutum é uma ave que aos pares ou em pequenos grupos, passa a maior parte de tempo no chão, porém, na hora de dormir sobem em árvores para descansar e se proteger de predadores.",
+   "risco_extincao": "VU"
+},
+ {
+   "secao_zoo": "Cracídeos",
+   "nome_popular": "Mutum-da-bahia",
+   "nome_cientifico": "Crax blumenbachii",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "12 anos",
+   "dist_geografica": "Brasil (sul da bahia e norte do espirito santo)",
+   "habito_alimentar": "Frutas, sementes e invertebrados",
+   "curiosidade": "Devido à destruição das florestas e à caça de subsistência e esportiva, suas populações sofreram uma drástica redução. Estima-se que existam livres na natureza não mais que 250 indivíduos distribuídos pelo Brasil.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Cracídeos",
+   "nome_popular": "Jacutinga de barbela azul",
+   "nome_cientifico": "Aburria cumanensis",
+   "incubacao": {
+      "gestacao": "28-30 dias"
+   },
+   "longevidade": "10 anos",
+   "dist_geografica": "Brasil (MT e MS), Peru, colômbia e venezuela",
+   "habito_alimentar": "Frutas, sementes e invertebrados",
+   "curiosidade": "O nome jacutinga é de origem tupi e ressalta o branco da ave. Tinga significa claro, usada pelos índios para diferenciar do jacu propriamente dito.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "",
+   "nome_popular": "",
+   "nome_cientifico": "",
+   "incubacao": {
+      "gestacao": "reprodução"
+   },
+   "longevidade": "",
+   "dist_geografica": "",
+   "habito_alimentar": "",
+   "curiosidade": "",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Apaiari",
+   "nome_cientifico": "Astronotus ocellatus",
+   "incubacao": {
+      "gestacao": "Ovíparos, sua maturidade sexual ocorre próximo de 12 meses. Liberam de mil a 3 mil ovos que eclodem em até 5 dias, ocorre cuidado parental durante primeiras semanas."
+   },
+   "longevidade": "",
+   "dist_geografica": "Nas bacias Amazônica, Araguaia-Tocantins e Prata (Brasil, Peru e Colômbia)",
+   "habito_alimentar": "Onívoros com tendência carnívora",
+   "curiosidade": "O peixe Apaiari é conhecido por diversos nomes poplares como Oscar, Acará Açu, Cará pirosca entre outros, é considerado um peixe ornamental, sendo um problema na china, Austrália e Flórida por terem sido introduzidos como espécie exótica devido ao comercio de peixes ornamentai, prejudicando o ecossistema local.",
+   "risco_extincao": "Sem informações", 
+   "url_foto": "https://live.staticflickr.com/3092/2297057368_cd351e7d38_b.jpg"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Barbo cereja",
+   "nome_cientifico": "puntius titteyal",
+   "incubacao": {
+      "gestacao": "Ovíparos, a fêmea libera seus ovos na água e o macho nada em volta fertilizando-os. Os ovos eclodem em 24 - 48 horas, não ocorre o cuidado parental."
+   },
+   "longevidade": "",
+   "dist_geografica": "Ásia, bacias de Nilwala e Kelani no Sri Lanka",
+   "habito_alimentar": "Onivoros",
+   "curiosidade": "São peixes que chamam a  atenção por sua coloração a femea apresenta uma oloração laranja avermelhada enquanto o macho apresenta um vermelho intenso. São peixes sociavies e vivendo em cadurmes.",
+   "risco_extincao": "Sem informações"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Cachara",
+   "nome_cientifico": "Pseudoplathystoma fasciatum",
+   "incubacao": {
+      "gestacao": "Oviparos, migram rio acima para desovar"
+   },
+   "longevidade": "",
+   "dist_geografica": "Nas bacias Amazônica e do Paraná e Orinoco",
+   "habito_alimentar": "Piscívoro (alimenta-se de outros peixes)",
+   "curiosidade": "Muito confundido com o peixe pintado, porém o cachara possui listas pretas verticais e irreguares, já o pintado é coberto por manchas arredondadas.",
+   "risco_extincao": "Sem informações"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Pacu-CD",
+   "nome_cientifico": "Myleus ssp",
+   "incubacao": {
+      "gestacao": "Ovíparos, realiza a piracema (migração reprodutiva), ao nadar contra a correnteza acumulam hormônios que são liberados para a fecundação externa"
+   },
+   "longevidade": "",
+   "dist_geografica": "Bacias Amazônica, Araguaia-Tocantins, Prata e São Francisco",
+   "habito_alimentar": "Onivoros",
+   "curiosidade": "O nome pacu é dado para várias espécies de peixes caracídeos da subfamília Serrasalminae, que também inclui as piranhas.",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Pacu-guaçu",
+   "nome_cientifico": "Piaractus mesopotamicus",
+   "incubacao": {
+      "gestacao": "Ovíparos, realiza a piracema (migração reprodutiva), ao nadar contra a correnteza acumulam hormônios que são liberados para a fecundação externa"
+   },
+   "longevidade": "",
+   "dist_geografica": "Bacia do Prata.",
+   "habito_alimentar": "Onivoros",
+   "curiosidade": "A população deste peixe sofre devido a poluição e principalmente da construção de hidroelétricas que impedem a subida do rio para reprodução",
+   "risco_extincao": "EN"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Piava",
+   "nome_cientifico": "Leporinus ssp",
+   "incubacao": {
+      "gestacao": "Ovíparos, para se reproduzir migra rio a cima (piracema) a fêmea libera os oocitos enquanto o macho libera sêmen, não há cuidado parental"
+   },
+   "longevidade": "",
+   "dist_geografica": "América do Sul (Bacia do Rio Uruguai, do Rio Paraná, do Rio São Francisco e do Rio Prata)",
+   "habito_alimentar": "Onívoros com tendência a herbivoria",
+   "curiosidade": "O termo popular “piaia” disigna a vários tipos de peixes como os do gêneros Leporinus e Schizodon, aos lambaris, entre outros.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Lambari",
+   "nome_cientifico": "Astyonax sp",
+   "incubacao": {
+      "gestacao": "Ovíparos, fecundação externa e sem cuidado parental"
+   },
+   "longevidade": "",
+   "dist_geografica": "Brasil",
+   "habito_alimentar": "Onivoro e detritivoro",
+   "curiosidade": "Muito encontrado em águas rasas, usado como ornamentais e na pescaria",
+   "risco_extincao": "Sem informações"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Traíra",
+   "nome_cientifico": "Hoplias spp",
+   "incubacao": {
+      "gestacao": "Oviparos, fazem pequenas desovas em tocas construidas durante a epoca repordutiva, ocorre cuidado parental por parte do macho até a eclosão dos ovos"
+   },
+   "longevidade": "",
+   "dist_geografica": "Diversos paises da America do Sul",
+   "habito_alimentar": "Carnivoro",
+   "curiosidade": "É um peixe voraz, briguento, territorial e muito esportivo. Possui dentes afiados e é extremamente lisa e escorregadia, por isso o nome_popular “Traíra”",
+   "risco_extincao": "Sem informações"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Tucunaré",
+   "nome_cientifico": "Cichlo sp",
+   "incubacao": {
+      "gestacao": "Ovíparos, há cuidado parental até os 2 meses de vida dos filhotes"
+   },
+   "longevidade": "",
+   "dist_geografica": "Bacia Amazônica, Tocantins-Araguaia introduzidos como espacie exótica em diversas outras regiões da América do Sul e do Norte.\n",
+   "habito_alimentar": "Piscívoro (Alimenta-se de outros peixes)",
+   "curiosidade": "O nome tucunaré abrange uma grande variedade de peixes com diversas cores (amarelado, acinzentado, avermelhado e azulado), tamanhos (de 20 cm até 1m) e manchas (de verticais a aredondadas), porém todas as espécies têm uma grande mancha na cauda.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Pintado",
+   "nome_cientifico": "Pseudoplatystoma corruscans",
+   "incubacao": {
+      "gestacao": "Ovíparos, para se reproduzir migra rio a cima (piracema) a fêmea libera os oocitos enquanto o macho libera sêmen, não há cuidado parental"
+   },
+   "longevidade": "",
+   "dist_geografica": "Bacias Amazônica, Araguaia-Tocantins e Prata (Rio Grande, Paraná e Tietê).",
+   "habito_alimentar": "Carnivoro",
+   "curiosidade": "Não confundir o peixe Cachara, o pintado possui manchas arredondas pelo corpo enquanto o Cachara possui listas pretas verticais e irregulares.",
+   "risco_extincao": ""
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Pirapara",
+   "nome_cientifico": "Leporinus obtusidens",
+   "incubacao": {
+      "gestacao": "Ovíparos, fazer a piracema (migração reprodutiva para cima do rio), não há cuidado parental, os pais liberam os gametas e a fecundação ocorrem em água"
+   },
+   "longevidade": "",
+   "dist_geografica": "America do Sul (bacias do Paraná, do Prata e São Francisco)",
+   "habito_alimentar": "Onívoros",
+   "curiosidade": "A Piapara faz parte da família Anostomidae, cujas espécies possuem muitos dentes incisivos acomodados em uma boca pequena e da ordem Characiformes qual pertence a maioria dos peixes de escamas conhecidos na América do Sul.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Paulistinha",
+   "nome_cientifico": "Brachydanio rerio",
+   "incubacao": {
+      "gestacao": "Ovíparos, não há cuidado parental, os pais liberam os gametas e a fecundação ocorrem em água"
+   },
+   "longevidade": "",
+   "dist_geografica": "Ásia (leste da Índia)",
+   "habito_alimentar": "Onívoros",
+   "curiosidade": "Peixes comunitários que vivem em cardumes, é uma especie bastante ativa, nadando a todo momento, são animais exóticos, sua inserção em corpos de água nacionais pode provocar prejuízo a fauna e flora locais",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Peixe papagaio",
+   "nome_cientifico": "Cichlasoma erythraeum",
+   "incubacao": {
+      "gestacao": "Ovíparo, em geral os machos são inférteis, as fêmeas geralmente conseguem se reproduzir com outras espécies. A fêmea deposita os oócitos que são fertilizados pelo macho, há cuidado parental"
+   },
+   "longevidade": "",
+   "dist_geografica": "Criação artificial",
+   "habito_alimentar": "Onívoros",
+   "curiosidade": "O peixe papagaio é um hibrido resultante do cruzamento entre duas espécies de ciclídeos: Amphilophus Citrinellus com Paraneetroplus Synspilus, assim não ocorrem naturalmente.",
+   "risco_extincao": "Sem informações"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "kinguio",
+   "nome_cientifico": "Carassius auratus",
+   "incubacao": {
+      "gestacao": "Ovíparos, não há cuidado parental, os pais liberam os gametas e a fecundação ocorrem em água"
+   },
+   "longevidade": "",
+   "dist_geografica": "Ásia",
+   "habito_alimentar": "Onívoros com tendência a herbivoria",
+   "curiosidade": "O peixe Kinguio foi uns dos primeiros peixes, uma carpa, a ser domesticado, inicialmente visando sua carne e posteriormente visado como animal de estimação, foi introduzido como espécie exótica na Europa, onde causa problemas a fauna e flora locais.",
+   "risco_extincao": "LC"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Rodóstomo",
+   "nome_cientifico": "Hemigrammus rhodostomus",
+   "incubacao": {
+      "gestacao": "Ovíparos, não há cuidado parental, os pais liberam os gametas e a fecundação ocorrem em água"
+   },
+   "longevidade": "",
+   "dist_geografica": "América do Sul (bacias do Orinoco e baixo do rio Amazonas)",
+   "habito_alimentar": "Onívoros",
+   "curiosidade": "Quando falamos dos Rodóstomus na verdade nos referimos a três espécies Hemigrammus rhodostomus, Hemigrammus bleheri e o Petitella georgiae, todos praticamente idênticos.",
+   "risco_extincao": "Sem informações"
+},
+ {
+   "secao_zoo": "Aquário",
+   "nome_popular": "Mocinha",
+   "nome_cientifico": "Characidium sp",
+   "incubacao": {
+      "gestacao": "Ovíparos, não há cuidado parental, os pais liberam os gametas e a fecundação ocorrem em água"
+   },
+   "longevidade": "",
+   "dist_geografica": "América do Sul",
+   "habito_alimentar": "Carnivoro",
+   "curiosidade": "São adaptados a vida em ambientes lóticos podendo, inclusive, usar suas longas nadadeiras peitorais e pélvicas para “escalar” troncos e rochas.",
+   "risco_extincao": "EN"
+}
+]
