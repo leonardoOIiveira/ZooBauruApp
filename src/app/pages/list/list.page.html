@@ -13,7 +13,7 @@
     </ion-segment-button>
   </ion-segment>
 
- <div [ngSwitch]="segmentView">
+ <div class="content" [ngSwitch]="segmentView">
    <div *ngSwitchCase="'animal'">
       <app-animal-list [animais]="AnimalList" (animalClicado)="AnimalClicado($event)"></app-animal-list>
    </div>
