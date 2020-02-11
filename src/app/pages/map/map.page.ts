@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 import { ScreenOrientation } from '@ionic-native/screen-orientation/ngx';
 import {  ViewChild, ElementRef } from '@angular/core';
