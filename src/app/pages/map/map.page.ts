@@ -27,6 +27,8 @@ export class MapPage implements OnInit {
   top: any = 0;
   left: any = 0;
 
+  OnInit() {}
+
 
 @ViewChild('slider', { read: ElementRef, static: true }) slider: ElementRef;
 sliderOpts = {

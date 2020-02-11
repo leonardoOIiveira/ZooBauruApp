@@ -1,0 +1,8 @@
+<ion-grid>
+  <ion-row>
+    <ion-col *ngFor="let secao of secoes" size="4" >
+        <app-secao-item [secao]="secao" 
+        (onclick)="SecaoClicada($event)" ></app-secao-item>
+    </ion-col>
+  </ion-row>
+</ion-grid>

@@ -1,0 +1,10 @@
+<ion-grid>
+  <ion-row>
+    <ion-col *ngFor="let animal of animais" size="4" >
+      <app-animal-item
+        [animal]="animal"
+        (onclick)="AnimalClicado($event)"
+      ></app-animal-item>
+    </ion-col>
+  </ion-row>
+</ion-grid> 

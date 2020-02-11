@@ -1,6 +1,8 @@
 import { Injectable } from '@angular/core';
 import animaisZoo from './../../assets/database/animais.json';
+import secaoZoo from './../../assets/database/secoes.json';
 import { Animal } from '../interface/animal.js';
+import { Secao } from '../interface/secao.js';
 
 @Injectable({
   providedIn: 'root'
@@ -8,6 +10,8 @@ import { Animal } from '../interface/animal.js';
 export class DatabaseService {
 
   private AnimalListRaw: Animal[] = animaisZoo;
+  private SecoesListRaw: Secao[] = secaoZoo;
+
   private filteredAnimalList: Animal[];
   constructor() {
     this.filteredAnimalList = this.AnimalListRaw.filter((item, index, array) => {
@@ -20,5 +24,9 @@ export class DatabaseService {
 
   getAnimals() {
     return this.filteredAnimalList;
+  }
+
+  getSecoes() {
+    return this.SecoesListRaw; 
   }
 }

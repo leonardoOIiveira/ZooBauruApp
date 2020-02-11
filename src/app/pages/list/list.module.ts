@@ -10,6 +10,10 @@ import { AnimalItemComponent } from 'src/app/components/animal-item/animal-item.
 import { AnimalInfoPageModule } from '../animal-info/animal-info.module';
 import { AnimalInfoPage } from '../animal-info/animal-info.page';
 import { ListRoutingModule } from './list-routing.module';
+import { AnimalListComponent } from './animal-list/animal-list.component';
+import { SecaoListComponent } from './secao-list/secao-list.component';
+import { TaxonListComponent } from './taxon-list/taxon-list.component';
+import { SecaoItemComponent } from 'src/app/components/secao-item/secao-item.component';
 
 const routes: Routes = [
   {
@@ -28,7 +32,11 @@ const routes: Routes = [
     RouterModule.forChild(routes)  ],
   declarations: [
     ListPage,
-    AnimalItemComponent
+    AnimalItemComponent, 
+    SecaoItemComponent,
+    AnimalListComponent, 
+    SecaoListComponent, 
+    TaxonListComponent
   ]
 })
 export class ListPageModule {}

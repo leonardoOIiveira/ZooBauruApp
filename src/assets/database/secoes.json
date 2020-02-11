@@ -1,0 +1,87 @@
+[{
+		"secao_zoo": "Antilopes",
+		"qtd_animais": 1,
+		"foto": "secoes/nomesecao.jpg"
+	},{
+		"secao_zoo": "Aquário",
+		"qtd_animais": 16
+	},{
+		"secao_zoo": "Aves Gigantes",
+		"qtd_animais": 4
+	},{
+		"secao_zoo": "Aves de Rapina",
+		"qtd_animais": 5
+	},{
+		"secao_zoo": "Aves ribeirinhas",
+		"qtd_animais": 6
+	},{
+		"secao_zoo": "Camelídeos",
+		"qtd_animais": 3
+	},{
+		"secao_zoo": "Cervídeos",
+		"qtd_animais": 2
+	},{
+		"secao_zoo": "Cisne",
+		"qtd_animais": 1
+	},{
+		"secao_zoo": "Corujas",
+		"qtd_animais": 6
+	},{
+		"secao_zoo": "Cracídeos",
+		"qtd_animais": 7
+	},{
+		"secao_zoo": "Grandes Primatas Brasileiros",
+		"qtd_animais": 6
+	},{
+		"secao_zoo": "Grandes felinos",
+		"qtd_animais": 5
+	},{
+		"secao_zoo": "Grandes psitacídeos",
+		"qtd_animais": 4
+	},{
+		"secao_zoo": "Herpestidae",
+		"qtd_animais": 3
+	},{
+		"secao_zoo": "Ilha do grou",
+		"qtd_animais": 2
+	},{
+		"secao_zoo": "Jacaré",
+		"qtd_animais": 2
+	},{
+		"secao_zoo": "Lagarto",
+		"qtd_animais": 4
+	},{
+		"secao_zoo": "Mustelídeos",
+		"qtd_animais": 1
+	},{
+		"secao_zoo": "Outros",
+		"qtd_animais": 5
+	},{
+		"secao_zoo": "Pavões",
+		"qtd_animais": 5
+	},{
+		"secao_zoo": "Pequenos Primatas Brasileiros",
+		"qtd_animais": 6
+	},{
+		"secao_zoo": "Pequenos Ramphastideos",
+		"qtd_animais": 3
+	},{
+		"secao_zoo": "Pequenos e Médios Psitacídeos",
+		"qtd_animais": 18
+	},{
+		"secao_zoo": "Pequenos e médios felinos",
+		"qtd_animais": 3
+	},{
+		"secao_zoo": "Primatas Africanos",
+		"qtd_animais": 4
+	},{
+		"secao_zoo": "Quelônio",
+		"qtd_animais": 7
+	},{
+		"secao_zoo": "Serpente",
+		"qtd_animais": 11
+	},{
+		"secao_zoo": "Tamanduá",
+		"qtd_animais": 2
+	}
+]

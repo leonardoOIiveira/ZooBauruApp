@@ -1,13 +1,32 @@
 <ion-content>
-  <div class="topoPage"></div>
- 
-  <div class="segment">
-    <ion-button activate> Animais </ion-button>
-    <ion-button> Seções </ion-button>
-    <ion-button> Taxons </ion-button>
-  </div>
+  <div class="custom-header"></div>
 
-  <ion-grid>
+  <ion-segment [(ngModel)]="segmentView" >
+    <ion-segment-button value="animal">
+      Animal
+    </ion-segment-button>
+    <ion-segment-button value="secao">
+      Seção
+    </ion-segment-button>
+    <ion-segment-button value="taxon">
+      Taxon
+    </ion-segment-button>
+  </ion-segment>
+
+ <div [ngSwitch]="segmentView">
+   <div *ngSwitchCase="'animal'">
+      <app-animal-list [animais]="AnimalList" (animalClicado)="AnimalClicado($event)"></app-animal-list>
+   </div>
+   <div *ngSwitchCase="'secao'">
+      <app-secao-list [secoes]="SecoesList" (secaoClicado)="SecaoClicado($event)"></app-secao-list>
+   </div>
+   <div *ngSwitchCase="'taxon'">
+      <app-taxon-list></app-taxon-list>
+   </div>
+
+ </div>
+
+  <!-- <ion-grid>
     <ion-row>
       <ion-col *ngFor="let animal of AnimalList" size="4" >
         <app-animal-item
@@ -16,6 +35,6 @@
         ></app-animal-item>
       </ion-col>
     </ion-row>
-  </ion-grid>  
+  </ion-grid>   -->
 
 </ion-content>
