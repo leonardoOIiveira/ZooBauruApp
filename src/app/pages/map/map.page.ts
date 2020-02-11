@@ -27,7 +27,9 @@ export class MapPage implements OnInit {
   top: any = 0;
   left: any = 0;
 
-  OnInit() {}
+  ngOnInit() {
+     
+  }
 
 
 @ViewChild('slider', { read: ElementRef,  }) slider: ElementRef;
