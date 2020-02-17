@@ -9,7 +9,7 @@ import { Platform } from '@ionic/angular';
   templateUrl: './map.page.html',
   styleUrls: ['./map.page.scss'],
 })
-export class MapPage implements OnInit {
+export class MapPage implements OnInitgit  {
 
   constructor(private screenOrientation: ScreenOrientation, public platform: Platform) {
     this.screenOrientation.lock(this.screenOrientation.ORIENTATIONS.LANDSCAPE);
