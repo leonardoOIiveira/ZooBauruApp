@@ -9,7 +9,7 @@ const routes: Routes = [
     },
     {
         path: 'animal-info', 
-        loadChildren: './../animal-info/animal-info.module#AnimalInfoPageModule'
+        loadChildren: () => import('./../animal-info/animal-info.module').then(x => x.AnimalInfoPageModule)
     },
     {
         path: '',

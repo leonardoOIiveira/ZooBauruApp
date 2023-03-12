@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Animal } from 'src/app/interface/animal';
 import animaisZoo from '../../../assets/database/animais.json';
-import { DatabaseService } from 'src/app/services/database.service.js';
+import { DatabaseService } from 'src/app/services/database.service';
 import { NavController } from '@ionic/angular';
 import { AnimalInfoPage } from '../animal-info/animal-info.page.js';
 import { NavigationExtras, Router } from '@angular/router';

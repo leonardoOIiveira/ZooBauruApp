@@ -9,23 +9,27 @@ const routes: Routes = [
         children: [
           {
             path: '',
-            loadChildren: './../home/home.module#HomePageModule'
+            loadChildren: () => import('./../home/home.module').then(x => x.HomePageModule)
           },
           {
               path: 'list',
-              loadChildren: './../list/list.module#ListPageModule'
+              loadChildren: () => import('./../list/list.module').then(x => x.ListPageModule)
+              // loadChildren: './../list/list.module#ListPageModule'
           },
           {
               path: 'info',
-              loadChildren: './../info/info.module#InfoPageModule'
+              loadChildren: () => import('./../info/info.module').then(x => x.InfoPageModule)
+              // loadChildren: './../info/info.module#InfoPageModule'
           },
           {
               path: 'map',
-              loadChildren: './../map/map.module#MapPageModule'
+              loadChildren: () => import('./../map/map.module').then(x => x.MapPageModule)
+              // loadChildren: './../map/map.module#MapPageModule'
           },
           {
               path: 'settings',
-              loadChildren: './../settings/settings.module#SettingsPageModule'
+              loadChildren: () => import('./../settings/settings.module').then(x => x.SettingsPageModule)
+              // loadChildren: './../settings/settings.module#SettingsPageModule'
           }
         ]
     },
